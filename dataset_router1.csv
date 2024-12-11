@@ -1,0 +1,1001 @@
+Metric Name,OID,Description,Interface Type,Admin Status,Oper Status,Inbound Octets,Outbound Octets,Inbound Errors,Outbound Errors
+ifMetric_40427409,1.3.6.1.2.1.30.50,High-capacity counter for inbound traffic,PPP,Up,Unknown,985761772,427430280,184,501
+ifMetric_f17b629e,1.3.6.1.2.1.88.25,High-capacity counter for inbound traffic,Loopback,Testing,Down,202973144,931440947,103,83
+ifMetric_df2a5c7f,1.3.6.1.2.1.67.71,Operational status of interface,ATM,Down,Down,940676151,425621865,324,318
+ifMetric_469f52b2,1.3.6.1.2.1.47.3,MAC address of interface,Ethernet,Testing,Up,492330654,469782112,85,930
+ifMetric_7ca784a7,1.3.6.1.2.1.22.88,Counter for outbound errors,Loopback,Down,Up,214868804,110294112,361,536
+ifMetric_92c18715,1.3.6.1.2.1.55.42,Operational status of interface,Ethernet,Down,Down,927716004,391116709,375,913
+ifMetric_913eb190,1.3.6.1.2.1.59.11,Operational status of interface,WiFi,Down,Up,778717953,680368769,549,606
+ifMetric_4dc14931,1.3.6.1.2.1.95.14,MAC address of interface,Ethernet,Testing,Up,298842817,673688098,546,678
+ifMetric_41918193,1.3.6.1.2.1.83.53,Administrative status of interface,ATM,Down,Unknown,792517292,878964566,86,330
+ifMetric_9902fbe2,1.3.6.1.2.1.85.65,Counter for outbound errors,ATM,Up,Down,540533294,998447552,708,618
+ifMetric_844c1284,1.3.6.1.2.1.7.21,High-capacity counter for inbound traffic,Ethernet,Testing,Up,919146365,913829416,606,574
+ifMetric_6be691fd,1.3.6.1.2.1.1.83,Operational status of interface,Loopback,Up,Down,24788884,655575526,936,103
+ifMetric_4329256f,1.3.6.1.2.1.80.78,Inbound traffic errors,Ethernet,Down,Up,374399944,59918422,796,847
+ifMetric_b4dfe360,1.3.6.1.2.1.69.90,Counter for outbound errors,WiFi,Down,Down,904151979,959860671,419,719
+ifMetric_d36a6403,1.3.6.1.2.1.17.22,High-capacity counter for inbound traffic,Loopback,Up,Unknown,152029899,83725681,537,581
+ifMetric_c2b7c989,1.3.6.1.2.1.1.33,Operational status of interface,PPP,Down,Up,452119881,809083624,268,170
+ifMetric_014a5656,1.3.6.1.2.1.32.62,MAC address of interface,ATM,Up,Down,695651639,776486386,677,642
+ifMetric_3446b0d6,1.3.6.1.2.1.33.74,Operational status of interface,PPP,Testing,Up,874792243,330902228,961,123
+ifMetric_6a68f34d,1.3.6.1.2.1.45.54,Administrative status of interface,ATM,Up,Up,194520226,467082272,68,757
+ifMetric_a8072ce8,1.3.6.1.2.1.44.6,Inbound traffic errors,ATM,Testing,Up,937115889,508958897,624,256
+ifMetric_e4b41853,1.3.6.1.2.1.74.71,Operational status of interface,ATM,Down,Unknown,180730558,685685720,34,299
+ifMetric_1b998469,1.3.6.1.2.1.64.59,Administrative status of interface,ATM,Up,Up,224149257,716099673,218,573
+ifMetric_fe6e173d,1.3.6.1.2.1.13.98,Counter for outbound errors,Loopback,Testing,Unknown,165770120,27547835,561,335
+ifMetric_e52c18a0,1.3.6.1.2.1.47.28,Counter for outbound errors,WiFi,Testing,Unknown,713559829,893513486,143,365
+ifMetric_994b9b1b,1.3.6.1.2.1.19.61,High-capacity counter for inbound traffic,ATM,Testing,Down,785444403,342287380,928,744
+ifMetric_ef32a432,1.3.6.1.2.1.98.59,Counter for outbound errors,ATM,Down,Unknown,327004997,905952501,180,171
+ifMetric_10a84cff,1.3.6.1.2.1.12.4,Counter for outbound errors,WiFi,Testing,Down,865146824,255235744,344,325
+ifMetric_a1828f4f,1.3.6.1.2.1.7.78,High-capacity counter for inbound traffic,PPP,Testing,Unknown,268952071,68647296,33,886
+ifMetric_58877dd7,1.3.6.1.2.1.6.32,Inbound traffic errors,WiFi,Down,Down,471803590,963574500,344,391
+ifMetric_d928ea9c,1.3.6.1.2.1.17.54,High-capacity counter for inbound traffic,Loopback,Down,Up,486853387,724862460,481,957
+ifMetric_4a082894,1.3.6.1.2.1.4.6,High-capacity counter for inbound traffic,PPP,Testing,Down,606508104,900197928,628,450
+ifMetric_a5b49d1d,1.3.6.1.2.1.54.9,Administrative status of interface,ATM,Up,Down,713609073,894875102,495,825
+ifMetric_ec126592,1.3.6.1.2.1.40.74,Inbound traffic errors,WiFi,Testing,Up,19522393,252143842,462,355
+ifMetric_84061663,1.3.6.1.2.1.80.40,Counter for outbound errors,ATM,Down,Unknown,49554951,95603131,343,782
+ifMetric_8570adfe,1.3.6.1.2.1.46.57,High-capacity counter for inbound traffic,Ethernet,Down,Down,205656163,408462532,944,409
+ifMetric_6aa86ea7,1.3.6.1.2.1.35.81,Administrative status of interface,Loopback,Down,Unknown,397670759,389361281,739,81
+ifMetric_ed700f76,1.3.6.1.2.1.8.25,Operational status of interface,Loopback,Testing,Down,360674933,690932156,498,688
+ifMetric_6dcf1274,1.3.6.1.2.1.49.1,Inbound traffic errors,Loopback,Testing,Unknown,716923263,306840979,145,8
+ifMetric_5bef03d4,1.3.6.1.2.1.33.88,High-capacity counter for inbound traffic,Ethernet,Testing,Up,196982582,404501459,426,953
+ifMetric_00d9824a,1.3.6.1.2.1.7.47,MAC address of interface,PPP,Testing,Down,735413511,657900713,276,408
+ifMetric_0df44c9c,1.3.6.1.2.1.84.18,Inbound traffic errors,Loopback,Up,Up,120828431,828245072,245,900
+ifMetric_fb99f63c,1.3.6.1.2.1.84.32,Administrative status of interface,Loopback,Down,Unknown,130942898,195073556,712,468
+ifMetric_dc5a83aa,1.3.6.1.2.1.86.22,Counter for outbound errors,ATM,Up,Down,79477868,117445415,175,651
+ifMetric_795f0945,1.3.6.1.2.1.91.95,Operational status of interface,Ethernet,Down,Up,900645818,632261830,660,686
+ifMetric_4373fc60,1.3.6.1.2.1.90.17,Counter for outbound errors,Loopback,Testing,Unknown,627172634,23698187,925,38
+ifMetric_bf7d4277,1.3.6.1.2.1.37.56,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,952428377,145179016,772,372
+ifMetric_d03f2472,1.3.6.1.2.1.22.26,MAC address of interface,Ethernet,Up,Up,556354489,225978040,453,898
+ifMetric_985e06e2,1.3.6.1.2.1.26.70,MAC address of interface,WiFi,Testing,Up,517402952,870433620,316,241
+ifMetric_ba4a1729,1.3.6.1.2.1.21.30,Operational status of interface,WiFi,Up,Up,659157243,680960068,608,352
+ifMetric_a55b61b9,1.3.6.1.2.1.26.70,Inbound traffic errors,PPP,Up,Unknown,706215858,102692132,749,910
+ifMetric_061299cd,1.3.6.1.2.1.78.83,Inbound traffic errors,Ethernet,Testing,Up,638715214,733709946,793,888
+ifMetric_10c5463d,1.3.6.1.2.1.47.12,Counter for outbound errors,Loopback,Up,Unknown,798134868,27538887,636,272
+ifMetric_755d3964,1.3.6.1.2.1.98.35,Counter for outbound errors,ATM,Up,Unknown,936174615,528935149,444,35
+ifMetric_6c6d278f,1.3.6.1.2.1.29.33,Counter for outbound errors,PPP,Down,Unknown,673714890,878461930,99,398
+ifMetric_cd626745,1.3.6.1.2.1.82.94,Administrative status of interface,ATM,Testing,Up,59870499,745524727,176,495
+ifMetric_d560c627,1.3.6.1.2.1.45.96,Inbound traffic errors,ATM,Down,Down,237096641,166320467,595,255
+ifMetric_ad474db9,1.3.6.1.2.1.51.68,High-capacity counter for inbound traffic,ATM,Testing,Down,278725053,216650403,318,273
+ifMetric_66a9fbbd,1.3.6.1.2.1.3.69,Operational status of interface,Loopback,Up,Down,835917554,931598023,100,517
+ifMetric_a4d04b2f,1.3.6.1.2.1.18.2,Inbound traffic errors,ATM,Testing,Unknown,898545132,266329923,586,20
+ifMetric_1f85d74b,1.3.6.1.2.1.42.52,Counter for outbound errors,ATM,Up,Down,407180851,569465901,595,721
+ifMetric_01887bec,1.3.6.1.2.1.44.82,Operational status of interface,PPP,Testing,Unknown,363516424,359101380,261,962
+ifMetric_1fd7adfc,1.3.6.1.2.1.97.81,Inbound traffic errors,Loopback,Down,Up,842892664,556352154,78,27
+ifMetric_a6694d18,1.3.6.1.2.1.49.19,Operational status of interface,Loopback,Down,Unknown,112535790,2175588,897,866
+ifMetric_8358b28d,1.3.6.1.2.1.62.15,Operational status of interface,PPP,Down,Unknown,715768800,170146726,646,282
+ifMetric_aa12a9e8,1.3.6.1.2.1.45.8,Operational status of interface,ATM,Testing,Up,89483290,525684166,954,827
+ifMetric_04c1ba35,1.3.6.1.2.1.83.50,Administrative status of interface,Loopback,Up,Down,394258289,626460247,221,735
+ifMetric_015fa386,1.3.6.1.2.1.1.7,MAC address of interface,WiFi,Up,Down,921401289,175575121,366,15
+ifMetric_6aded36b,1.3.6.1.2.1.82.77,Inbound traffic errors,WiFi,Down,Down,268642914,342973116,344,486
+ifMetric_09bdfda0,1.3.6.1.2.1.37.48,Inbound traffic errors,Ethernet,Up,Up,117786819,441493324,799,302
+ifMetric_d430cc68,1.3.6.1.2.1.7.17,Administrative status of interface,Ethernet,Up,Up,588901417,817855635,159,688
+ifMetric_91658439,1.3.6.1.2.1.60.37,Counter for outbound errors,Ethernet,Testing,Down,866555714,283761398,255,975
+ifMetric_cd6f59e2,1.3.6.1.2.1.86.92,Inbound traffic errors,Loopback,Testing,Unknown,736815343,336472821,834,252
+ifMetric_630024a4,1.3.6.1.2.1.38.91,Administrative status of interface,ATM,Testing,Down,305120771,957864631,897,518
+ifMetric_c4ff4acd,1.3.6.1.2.1.34.1,High-capacity counter for inbound traffic,ATM,Testing,Unknown,216150170,269455283,453,79
+ifMetric_0b1d3480,1.3.6.1.2.1.55.76,Inbound traffic errors,WiFi,Up,Up,614417314,128259813,522,165
+ifMetric_353afd16,1.3.6.1.2.1.11.25,Inbound traffic errors,Loopback,Testing,Up,117360232,791327052,152,267
+ifMetric_23fce74e,1.3.6.1.2.1.25.39,Inbound traffic errors,PPP,Down,Unknown,619670222,317985389,427,371
+ifMetric_930c7627,1.3.6.1.2.1.72.12,Operational status of interface,ATM,Testing,Down,556600832,894625337,778,121
+ifMetric_f3c9c58d,1.3.6.1.2.1.84.43,Administrative status of interface,Loopback,Down,Up,928282564,695914587,895,954
+ifMetric_1a29ed16,1.3.6.1.2.1.73.72,High-capacity counter for inbound traffic,WiFi,Up,Up,830101976,830585410,144,721
+ifMetric_89c7185c,1.3.6.1.2.1.27.61,Inbound traffic errors,Loopback,Testing,Unknown,378538231,719975347,48,435
+ifMetric_6e1f569c,1.3.6.1.2.1.67.20,Operational status of interface,Loopback,Down,Unknown,114201363,288557663,131,371
+ifMetric_e4a04c84,1.3.6.1.2.1.92.61,High-capacity counter for inbound traffic,PPP,Down,Down,842376406,715821807,370,376
+ifMetric_a640bff1,1.3.6.1.2.1.47.30,Operational status of interface,Loopback,Testing,Down,648317568,167596474,578,503
+ifMetric_e0abf1e2,1.3.6.1.2.1.31.55,Counter for outbound errors,Ethernet,Down,Down,933994230,475349896,206,533
+ifMetric_3d33c7ab,1.3.6.1.2.1.93.22,Counter for outbound errors,ATM,Up,Up,755519134,325671641,493,380
+ifMetric_39377841,1.3.6.1.2.1.34.61,Operational status of interface,WiFi,Down,Down,651318975,76279549,88,322
+ifMetric_2d57a41e,1.3.6.1.2.1.49.68,Counter for outbound errors,PPP,Up,Up,773446303,945302702,322,200
+ifMetric_75393670,1.3.6.1.2.1.6.87,MAC address of interface,ATM,Down,Up,983657830,122518487,251,747
+ifMetric_632a8d03,1.3.6.1.2.1.38.27,High-capacity counter for inbound traffic,WiFi,Testing,Up,757614144,872811401,443,543
+ifMetric_69fb9b90,1.3.6.1.2.1.9.38,Administrative status of interface,Ethernet,Up,Up,710172438,762527824,8,475
+ifMetric_c2ecb30b,1.3.6.1.2.1.38.99,MAC address of interface,ATM,Up,Down,311605199,252207165,847,114
+ifMetric_a3c20104,1.3.6.1.2.1.31.99,Counter for outbound errors,ATM,Testing,Up,88126123,947677093,760,100
+ifMetric_5441f8da,1.3.6.1.2.1.52.13,Inbound traffic errors,Loopback,Down,Down,46678841,378965532,750,275
+ifMetric_20d3d8d3,1.3.6.1.2.1.87.42,Operational status of interface,Ethernet,Down,Unknown,66251600,690057694,258,702
+ifMetric_cb5f3de3,1.3.6.1.2.1.100.26,MAC address of interface,WiFi,Down,Down,669813925,634792872,757,72
+ifMetric_69799b2f,1.3.6.1.2.1.93.83,Operational status of interface,Ethernet,Up,Up,373453230,600220373,478,735
+ifMetric_1658a18d,1.3.6.1.2.1.67.11,Counter for outbound errors,Loopback,Down,Down,915081643,859865928,153,584
+ifMetric_744b5584,1.3.6.1.2.1.82.49,High-capacity counter for inbound traffic,ATM,Up,Unknown,404121656,550163731,335,195
+ifMetric_9d6e7345,1.3.6.1.2.1.58.24,Inbound traffic errors,Loopback,Up,Down,769578726,513036840,712,736
+ifMetric_65d13c2b,1.3.6.1.2.1.85.61,Administrative status of interface,ATM,Up,Up,565220523,579304828,800,311
+ifMetric_6bdc8cfc,1.3.6.1.2.1.93.67,Counter for outbound errors,ATM,Up,Unknown,853211892,893461853,181,781
+ifMetric_4b84916d,1.3.6.1.2.1.49.80,High-capacity counter for inbound traffic,Ethernet,Testing,Up,974294591,515205705,291,624
+ifMetric_4cf9a7ce,1.3.6.1.2.1.30.15,Operational status of interface,PPP,Down,Up,164078120,911184558,935,400
+ifMetric_93b9a14f,1.3.6.1.2.1.7.13,Inbound traffic errors,WiFi,Down,Down,277223933,811551199,160,666
+ifMetric_6a5e98b7,1.3.6.1.2.1.45.78,Counter for outbound errors,Ethernet,Testing,Unknown,979170847,855024556,404,504
+ifMetric_a81b5996,1.3.6.1.2.1.7.63,Counter for outbound errors,Ethernet,Down,Down,878511161,485000842,988,864
+ifMetric_6772f3b4,1.3.6.1.2.1.21.25,Counter for outbound errors,WiFi,Testing,Unknown,353254457,235985864,443,159
+ifMetric_10084e20,1.3.6.1.2.1.78.79,Counter for outbound errors,Loopback,Down,Unknown,466168718,437961321,786,72
+ifMetric_fabd9e0c,1.3.6.1.2.1.71.15,MAC address of interface,WiFi,Down,Up,992574429,686171497,468,841
+ifMetric_9b32f6b1,1.3.6.1.2.1.65.84,Counter for outbound errors,PPP,Testing,Up,817452454,474050810,496,830
+ifMetric_89d3a940,1.3.6.1.2.1.3.48,Counter for outbound errors,Ethernet,Up,Down,865091426,552237612,731,863
+ifMetric_90ebbc1b,1.3.6.1.2.1.88.17,Counter for outbound errors,WiFi,Up,Up,570331266,3751630,916,907
+ifMetric_c5dc91d0,1.3.6.1.2.1.53.52,High-capacity counter for inbound traffic,WiFi,Down,Up,871426690,792107857,883,722
+ifMetric_55aed769,1.3.6.1.2.1.25.11,Inbound traffic errors,Ethernet,Up,Down,550805582,513291437,883,349
+ifMetric_4b86d671,1.3.6.1.2.1.65.5,Counter for outbound errors,Ethernet,Testing,Down,521521903,961696327,516,393
+ifMetric_0ce8b315,1.3.6.1.2.1.25.75,Operational status of interface,PPP,Testing,Up,498078524,870343836,200,478
+ifMetric_386ce0a6,1.3.6.1.2.1.2.61,Inbound traffic errors,Ethernet,Up,Unknown,551062654,804940431,463,171
+ifMetric_1a64b8a9,1.3.6.1.2.1.38.58,Counter for outbound errors,Loopback,Down,Unknown,161068176,402041437,645,662
+ifMetric_60807d4a,1.3.6.1.2.1.65.90,Administrative status of interface,ATM,Testing,Down,799326481,13408607,825,45
+ifMetric_f7ff0654,1.3.6.1.2.1.2.61,Inbound traffic errors,Ethernet,Testing,Unknown,680423800,954508557,892,943
+ifMetric_84db2012,1.3.6.1.2.1.6.24,MAC address of interface,Ethernet,Testing,Up,56907336,145796029,942,933
+ifMetric_cdcc5c5e,1.3.6.1.2.1.32.31,Operational status of interface,WiFi,Up,Down,825249840,730110975,207,187
+ifMetric_a03cc04f,1.3.6.1.2.1.98.84,Inbound traffic errors,Loopback,Up,Unknown,95413030,99889658,316,490
+ifMetric_deada4ff,1.3.6.1.2.1.17.18,Counter for outbound errors,Loopback,Up,Unknown,417670915,625830113,524,700
+ifMetric_dd296a66,1.3.6.1.2.1.16.38,Administrative status of interface,Ethernet,Down,Down,671941126,869835609,129,204
+ifMetric_b169e95c,1.3.6.1.2.1.31.10,Inbound traffic errors,WiFi,Testing,Up,981462560,385164818,733,783
+ifMetric_f979e718,1.3.6.1.2.1.77.2,Administrative status of interface,WiFi,Up,Down,556303924,687538929,282,765
+ifMetric_129b30b5,1.3.6.1.2.1.93.68,Inbound traffic errors,WiFi,Up,Down,982743945,415141817,731,931
+ifMetric_238682c4,1.3.6.1.2.1.34.68,Counter for outbound errors,WiFi,Down,Down,193583466,230419149,1000,392
+ifMetric_d1966d9a,1.3.6.1.2.1.68.54,Administrative status of interface,WiFi,Down,Unknown,627858369,365588589,39,878
+ifMetric_b859529b,1.3.6.1.2.1.46.77,Inbound traffic errors,WiFi,Up,Down,403069989,506492988,396,190
+ifMetric_759cc814,1.3.6.1.2.1.18.99,MAC address of interface,ATM,Up,Up,61905728,46930982,204,952
+ifMetric_41b62611,1.3.6.1.2.1.79.36,Counter for outbound errors,WiFi,Up,Up,859615022,285351655,11,402
+ifMetric_8d529640,1.3.6.1.2.1.78.81,Inbound traffic errors,ATM,Testing,Down,49500075,357636127,517,37
+ifMetric_3cb52ee2,1.3.6.1.2.1.70.32,High-capacity counter for inbound traffic,PPP,Testing,Unknown,454159821,772841466,71,669
+ifMetric_94fc3ca4,1.3.6.1.2.1.29.14,Operational status of interface,PPP,Down,Up,620377291,913263488,90,484
+ifMetric_df0221b0,1.3.6.1.2.1.12.62,Operational status of interface,Loopback,Testing,Down,774391970,86946972,593,157
+ifMetric_32ec27c5,1.3.6.1.2.1.95.81,MAC address of interface,WiFi,Testing,Unknown,288235017,861611584,953,676
+ifMetric_bb8196db,1.3.6.1.2.1.9.43,MAC address of interface,Ethernet,Testing,Unknown,399746603,887577266,88,987
+ifMetric_96954432,1.3.6.1.2.1.82.66,High-capacity counter for inbound traffic,PPP,Up,Unknown,234002763,697034793,656,410
+ifMetric_2bbb0e0f,1.3.6.1.2.1.91.71,High-capacity counter for inbound traffic,WiFi,Down,Up,583223347,29632435,386,217
+ifMetric_2f53363f,1.3.6.1.2.1.48.10,Inbound traffic errors,Loopback,Testing,Up,128628506,478830234,83,209
+ifMetric_8642c43f,1.3.6.1.2.1.11.56,Inbound traffic errors,PPP,Testing,Unknown,676990130,269904410,660,911
+ifMetric_5472e8f0,1.3.6.1.2.1.37.48,MAC address of interface,Loopback,Testing,Up,510072763,372052405,731,155
+ifMetric_3d794ee2,1.3.6.1.2.1.85.95,Inbound traffic errors,Ethernet,Testing,Down,94378306,965414118,824,925
+ifMetric_587211f4,1.3.6.1.2.1.94.21,Administrative status of interface,WiFi,Testing,Down,374085794,141273016,983,323
+ifMetric_1ad930de,1.3.6.1.2.1.92.45,High-capacity counter for inbound traffic,WiFi,Up,Down,875969616,534787104,242,368
+ifMetric_5f667c11,1.3.6.1.2.1.56.8,Operational status of interface,Loopback,Testing,Up,701624906,44275051,782,977
+ifMetric_eb3d837e,1.3.6.1.2.1.80.68,MAC address of interface,PPP,Testing,Down,551929641,110225737,201,971
+ifMetric_777dd992,1.3.6.1.2.1.21.80,Operational status of interface,WiFi,Testing,Up,200103379,852009120,5,910
+ifMetric_33798574,1.3.6.1.2.1.6.9,High-capacity counter for inbound traffic,ATM,Up,Down,846072213,263598070,769,938
+ifMetric_984460be,1.3.6.1.2.1.64.33,Counter for outbound errors,Ethernet,Up,Up,469015312,948171733,255,784
+ifMetric_6536735f,1.3.6.1.2.1.43.78,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,853643961,96977892,278,751
+ifMetric_414ba821,1.3.6.1.2.1.40.94,Administrative status of interface,Loopback,Up,Down,821545956,480980433,328,430
+ifMetric_4d4f924f,1.3.6.1.2.1.91.29,Administrative status of interface,Loopback,Up,Up,24685639,31617688,753,259
+ifMetric_6087ed3f,1.3.6.1.2.1.52.96,High-capacity counter for inbound traffic,PPP,Down,Up,221088481,767235272,31,99
+ifMetric_8f7f2d69,1.3.6.1.2.1.69.12,MAC address of interface,WiFi,Testing,Up,379631641,758888520,64,432
+ifMetric_b96428c8,1.3.6.1.2.1.24.54,Inbound traffic errors,ATM,Up,Down,232028455,109932503,293,206
+ifMetric_b54336c0,1.3.6.1.2.1.80.45,Inbound traffic errors,PPP,Testing,Up,253608302,296447226,258,997
+ifMetric_6b86f981,1.3.6.1.2.1.82.37,High-capacity counter for inbound traffic,ATM,Up,Unknown,87397616,425152972,315,623
+ifMetric_f4674675,1.3.6.1.2.1.19.34,MAC address of interface,ATM,Down,Unknown,298238384,3298584,405,861
+ifMetric_efb558b5,1.3.6.1.2.1.46.61,MAC address of interface,Ethernet,Down,Down,11050848,323867977,356,625
+ifMetric_8dcd6260,1.3.6.1.2.1.77.10,MAC address of interface,Loopback,Testing,Down,412358385,489263748,489,98
+ifMetric_4e20e25e,1.3.6.1.2.1.98.18,High-capacity counter for inbound traffic,WiFi,Up,Unknown,605759029,176909118,29,233
+ifMetric_0073138c,1.3.6.1.2.1.97.38,Operational status of interface,WiFi,Up,Down,737758065,240005931,6,517
+ifMetric_7bcc6861,1.3.6.1.2.1.41.59,Administrative status of interface,PPP,Testing,Unknown,609190744,167539828,764,368
+ifMetric_cdcded0b,1.3.6.1.2.1.58.59,High-capacity counter for inbound traffic,PPP,Testing,Unknown,108352605,180654772,484,112
+ifMetric_2827e04a,1.3.6.1.2.1.85.59,MAC address of interface,PPP,Testing,Up,883947652,796694336,997,459
+ifMetric_fdeffc67,1.3.6.1.2.1.100.41,High-capacity counter for inbound traffic,Ethernet,Up,Unknown,57776182,35659123,998,814
+ifMetric_8f3c6cba,1.3.6.1.2.1.1.37,High-capacity counter for inbound traffic,Loopback,Up,Up,447532638,396739732,563,427
+ifMetric_977cc15a,1.3.6.1.2.1.51.48,MAC address of interface,ATM,Up,Unknown,516886294,698083799,86,563
+ifMetric_62213790,1.3.6.1.2.1.66.50,High-capacity counter for inbound traffic,WiFi,Testing,Up,797862571,323287537,646,466
+ifMetric_b9f4833d,1.3.6.1.2.1.35.76,Counter for outbound errors,ATM,Up,Up,840722938,929755462,328,601
+ifMetric_f61c464e,1.3.6.1.2.1.52.8,Counter for outbound errors,WiFi,Up,Unknown,272038054,75473156,33,675
+ifMetric_8fbbf227,1.3.6.1.2.1.34.13,High-capacity counter for inbound traffic,WiFi,Up,Up,459708480,570728097,575,808
+ifMetric_15271e96,1.3.6.1.2.1.70.85,Counter for outbound errors,Ethernet,Up,Down,408104427,106678808,115,426
+ifMetric_3657cf67,1.3.6.1.2.1.47.84,Administrative status of interface,WiFi,Testing,Unknown,533190560,566932383,609,704
+ifMetric_cb4f5ca2,1.3.6.1.2.1.81.13,Counter for outbound errors,PPP,Down,Up,495788319,843137025,964,21
+ifMetric_4b971333,1.3.6.1.2.1.5.12,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,382385020,356725951,0,304
+ifMetric_03341519,1.3.6.1.2.1.92.1,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,276625240,519725953,642,644
+ifMetric_68161d68,1.3.6.1.2.1.79.51,Operational status of interface,Loopback,Down,Unknown,765935341,66811292,904,784
+ifMetric_1ea56874,1.3.6.1.2.1.53.54,High-capacity counter for inbound traffic,Loopback,Up,Unknown,36992178,294495124,653,377
+ifMetric_8204eb4e,1.3.6.1.2.1.85.89,Counter for outbound errors,Ethernet,Down,Down,280961989,605060780,898,738
+ifMetric_dcc4fc6e,1.3.6.1.2.1.12.24,Administrative status of interface,Loopback,Testing,Down,243001312,362397422,602,558
+ifMetric_b0915abe,1.3.6.1.2.1.81.29,High-capacity counter for inbound traffic,PPP,Down,Up,324999709,571262927,831,3
+ifMetric_01c7a67a,1.3.6.1.2.1.80.11,Operational status of interface,Ethernet,Up,Unknown,389690016,983105380,628,920
+ifMetric_4468b5c1,1.3.6.1.2.1.92.70,Operational status of interface,ATM,Up,Up,697494394,973655306,443,87
+ifMetric_dfe94747,1.3.6.1.2.1.22.15,Inbound traffic errors,PPP,Up,Down,950146946,322051505,3,911
+ifMetric_0616f167,1.3.6.1.2.1.86.38,Operational status of interface,WiFi,Up,Up,70323222,851261945,60,701
+ifMetric_cc3ed408,1.3.6.1.2.1.10.77,High-capacity counter for inbound traffic,ATM,Down,Down,917284268,636130729,78,887
+ifMetric_97d44399,1.3.6.1.2.1.71.86,Counter for outbound errors,ATM,Down,Up,267435913,388908264,577,880
+ifMetric_7601dd66,1.3.6.1.2.1.67.64,Administrative status of interface,ATM,Up,Up,649954807,520732617,753,133
+ifMetric_7a75db85,1.3.6.1.2.1.34.46,Administrative status of interface,WiFi,Down,Up,948414674,229614744,204,637
+ifMetric_615e884e,1.3.6.1.2.1.79.35,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,715470818,305911774,774,731
+ifMetric_a6796c67,1.3.6.1.2.1.61.37,High-capacity counter for inbound traffic,PPP,Up,Unknown,921504131,837446298,441,780
+ifMetric_f12778ca,1.3.6.1.2.1.40.52,MAC address of interface,Loopback,Down,Down,393039271,145558735,721,231
+ifMetric_6314949f,1.3.6.1.2.1.98.18,Counter for outbound errors,Loopback,Down,Unknown,121329765,475223196,764,215
+ifMetric_0c84bc43,1.3.6.1.2.1.47.78,Counter for outbound errors,PPP,Testing,Down,300172697,53391089,835,767
+ifMetric_0cfd4cda,1.3.6.1.2.1.79.39,Operational status of interface,WiFi,Down,Up,69286825,683090818,799,713
+ifMetric_7eb3cecd,1.3.6.1.2.1.7.41,MAC address of interface,Ethernet,Up,Unknown,862493398,929725543,308,325
+ifMetric_71dd246a,1.3.6.1.2.1.45.75,Counter for outbound errors,WiFi,Up,Down,381913360,259698836,7,547
+ifMetric_26e72c29,1.3.6.1.2.1.66.2,Operational status of interface,Ethernet,Up,Unknown,543289078,91555114,307,895
+ifMetric_bf8e7d24,1.3.6.1.2.1.34.37,Inbound traffic errors,WiFi,Testing,Unknown,663630629,645511264,968,559
+ifMetric_887536b1,1.3.6.1.2.1.25.59,MAC address of interface,PPP,Testing,Down,696707750,121392256,153,827
+ifMetric_cb3be1ab,1.3.6.1.2.1.94.83,Administrative status of interface,PPP,Up,Unknown,359078460,528399036,372,267
+ifMetric_44e9c574,1.3.6.1.2.1.40.83,High-capacity counter for inbound traffic,ATM,Up,Up,645849963,957828483,913,18
+ifMetric_56138b2b,1.3.6.1.2.1.48.61,Administrative status of interface,Ethernet,Up,Unknown,652078687,612502382,227,736
+ifMetric_43064a07,1.3.6.1.2.1.38.84,High-capacity counter for inbound traffic,ATM,Testing,Unknown,876281687,204042006,386,311
+ifMetric_724be87a,1.3.6.1.2.1.89.31,Operational status of interface,PPP,Testing,Up,404614282,493428477,862,695
+ifMetric_98036193,1.3.6.1.2.1.21.15,MAC address of interface,WiFi,Testing,Unknown,198181639,245519733,477,192
+ifMetric_8448f225,1.3.6.1.2.1.32.71,Administrative status of interface,PPP,Down,Unknown,916809100,467848848,860,174
+ifMetric_14384016,1.3.6.1.2.1.28.23,Operational status of interface,WiFi,Up,Unknown,807583347,888817781,942,213
+ifMetric_2aabcbc6,1.3.6.1.2.1.38.68,Operational status of interface,WiFi,Down,Down,761796047,461381093,42,401
+ifMetric_bc814d86,1.3.6.1.2.1.79.74,MAC address of interface,PPP,Down,Up,559245248,925448280,459,734
+ifMetric_256499d9,1.3.6.1.2.1.50.74,High-capacity counter for inbound traffic,ATM,Testing,Down,57319695,363737136,741,839
+ifMetric_5712f2cf,1.3.6.1.2.1.80.50,Administrative status of interface,Ethernet,Testing,Unknown,635320739,400257555,982,29
+ifMetric_6c4e9360,1.3.6.1.2.1.9.28,High-capacity counter for inbound traffic,Loopback,Up,Down,12510503,552712465,956,699
+ifMetric_efb50b7d,1.3.6.1.2.1.78.99,Inbound traffic errors,Loopback,Down,Up,637486760,34183218,612,753
+ifMetric_e1fc5bd7,1.3.6.1.2.1.67.88,High-capacity counter for inbound traffic,Loopback,Up,Up,340769953,356141017,714,625
+ifMetric_8ba186af,1.3.6.1.2.1.22.70,Inbound traffic errors,ATM,Up,Up,42517392,18630413,819,615
+ifMetric_e1433d42,1.3.6.1.2.1.12.65,Operational status of interface,PPP,Down,Unknown,437800141,859379847,968,914
+ifMetric_80a192af,1.3.6.1.2.1.95.79,Inbound traffic errors,Loopback,Up,Down,305743706,846501309,67,235
+ifMetric_17f14184,1.3.6.1.2.1.86.96,Operational status of interface,WiFi,Down,Up,447399701,241946740,48,291
+ifMetric_4774e2da,1.3.6.1.2.1.99.22,Inbound traffic errors,Ethernet,Testing,Down,526959324,838777337,948,337
+ifMetric_66168b75,1.3.6.1.2.1.65.2,Operational status of interface,Loopback,Down,Unknown,559969059,973661473,422,876
+ifMetric_112c712f,1.3.6.1.2.1.46.78,Counter for outbound errors,Loopback,Testing,Up,431527100,547460961,521,476
+ifMetric_a2b90e03,1.3.6.1.2.1.50.40,Operational status of interface,WiFi,Down,Up,465304789,839175319,82,834
+ifMetric_f0375dd6,1.3.6.1.2.1.99.65,Counter for outbound errors,Loopback,Down,Up,716251347,770198095,597,440
+ifMetric_5e932197,1.3.6.1.2.1.76.63,High-capacity counter for inbound traffic,WiFi,Up,Down,82420160,78829213,802,758
+ifMetric_666f8db2,1.3.6.1.2.1.54.20,Administrative status of interface,Loopback,Testing,Up,285258180,224496141,23,754
+ifMetric_41cedd13,1.3.6.1.2.1.91.14,Operational status of interface,WiFi,Testing,Down,253060964,198606678,668,787
+ifMetric_726158dc,1.3.6.1.2.1.57.81,Operational status of interface,PPP,Testing,Up,127597386,593041661,626,528
+ifMetric_358c08ac,1.3.6.1.2.1.62.25,Operational status of interface,ATM,Testing,Unknown,322591730,536671322,370,591
+ifMetric_17797d59,1.3.6.1.2.1.49.99,Inbound traffic errors,PPP,Up,Down,448852117,549858319,269,298
+ifMetric_eed958c9,1.3.6.1.2.1.67.65,Operational status of interface,WiFi,Down,Up,148617607,30416375,909,777
+ifMetric_02b74016,1.3.6.1.2.1.74.29,Counter for outbound errors,PPP,Down,Unknown,550061998,568728517,564,294
+ifMetric_c49b1ba5,1.3.6.1.2.1.57.40,Operational status of interface,WiFi,Testing,Unknown,566962380,851866476,642,542
+ifMetric_9126c777,1.3.6.1.2.1.24.94,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,717280570,138513886,762,78
+ifMetric_22931834,1.3.6.1.2.1.93.48,Administrative status of interface,ATM,Down,Unknown,400031473,883977034,556,343
+ifMetric_358d7ccd,1.3.6.1.2.1.96.24,High-capacity counter for inbound traffic,PPP,Up,Unknown,156670032,204754492,887,482
+ifMetric_921eb36b,1.3.6.1.2.1.16.69,Counter for outbound errors,PPP,Testing,Up,307187047,233873237,956,292
+ifMetric_98ccc355,1.3.6.1.2.1.80.79,Operational status of interface,WiFi,Down,Unknown,377505816,105552807,130,74
+ifMetric_323b087c,1.3.6.1.2.1.31.47,Counter for outbound errors,ATM,Down,Up,682871729,316394694,660,620
+ifMetric_44aaf3e8,1.3.6.1.2.1.23.35,Operational status of interface,ATM,Testing,Up,853700576,141133571,752,628
+ifMetric_ee8f2396,1.3.6.1.2.1.45.64,MAC address of interface,Ethernet,Down,Up,613692815,386600051,440,910
+ifMetric_ae41d0b2,1.3.6.1.2.1.78.33,High-capacity counter for inbound traffic,WiFi,Up,Down,281329960,301476390,640,895
+ifMetric_7c40437c,1.3.6.1.2.1.7.16,Operational status of interface,WiFi,Up,Up,913409663,884413021,655,464
+ifMetric_2a9cec96,1.3.6.1.2.1.67.92,Inbound traffic errors,Ethernet,Testing,Down,579097069,902733427,798,578
+ifMetric_15d7e5c7,1.3.6.1.2.1.92.56,Counter for outbound errors,ATM,Testing,Down,970404980,77847297,177,751
+ifMetric_2a7f6f0b,1.3.6.1.2.1.19.2,High-capacity counter for inbound traffic,PPP,Up,Unknown,483315408,153614471,155,31
+ifMetric_04f7301a,1.3.6.1.2.1.16.92,Operational status of interface,PPP,Up,Down,255100242,358781969,275,313
+ifMetric_087bf794,1.3.6.1.2.1.100.82,High-capacity counter for inbound traffic,PPP,Down,Up,922916742,683874195,982,325
+ifMetric_a2eb66a7,1.3.6.1.2.1.33.10,Administrative status of interface,PPP,Up,Down,407697891,682728530,886,711
+ifMetric_ba3bb5c5,1.3.6.1.2.1.17.15,Counter for outbound errors,WiFi,Down,Up,10283886,659033115,355,271
+ifMetric_2cc8104b,1.3.6.1.2.1.80.12,Counter for outbound errors,Loopback,Testing,Up,290448687,492369321,161,244
+ifMetric_b3b237cc,1.3.6.1.2.1.79.72,MAC address of interface,Loopback,Testing,Unknown,443549808,712596964,395,189
+ifMetric_cd3ad6e2,1.3.6.1.2.1.3.26,Administrative status of interface,PPP,Testing,Unknown,319117172,978950346,222,305
+ifMetric_d4fdc7d3,1.3.6.1.2.1.52.94,Inbound traffic errors,Ethernet,Testing,Up,94025205,515710173,41,138
+ifMetric_5217fb03,1.3.6.1.2.1.18.91,Administrative status of interface,Loopback,Down,Up,563776291,779510565,527,525
+ifMetric_8e1dc9c5,1.3.6.1.2.1.5.50,MAC address of interface,Loopback,Down,Down,105951249,937503833,489,924
+ifMetric_6f6580ab,1.3.6.1.2.1.91.70,Counter for outbound errors,Ethernet,Down,Down,874527191,268483156,998,596
+ifMetric_71983170,1.3.6.1.2.1.23.2,Inbound traffic errors,WiFi,Testing,Down,550063625,963917294,607,521
+ifMetric_0dc16fb2,1.3.6.1.2.1.51.53,Inbound traffic errors,WiFi,Testing,Up,172608409,159275946,823,90
+ifMetric_fd6f4d73,1.3.6.1.2.1.76.8,High-capacity counter for inbound traffic,Loopback,Testing,Up,7153525,823294024,832,618
+ifMetric_243cbf1a,1.3.6.1.2.1.74.31,Counter for outbound errors,Ethernet,Testing,Unknown,953039863,331251307,782,440
+ifMetric_765ea264,1.3.6.1.2.1.19.80,MAC address of interface,WiFi,Testing,Unknown,291590419,939207137,913,118
+ifMetric_0b1039d3,1.3.6.1.2.1.58.62,Administrative status of interface,Loopback,Up,Up,989899561,103794355,94,12
+ifMetric_fd30e488,1.3.6.1.2.1.14.34,High-capacity counter for inbound traffic,PPP,Down,Down,918394965,657469497,481,645
+ifMetric_65e6ac95,1.3.6.1.2.1.63.79,Operational status of interface,PPP,Down,Up,194438019,825564945,78,215
+ifMetric_6e98b9f9,1.3.6.1.2.1.100.28,Inbound traffic errors,Ethernet,Testing,Up,591166111,89516928,945,563
+ifMetric_aeb4947e,1.3.6.1.2.1.97.5,High-capacity counter for inbound traffic,WiFi,Up,Unknown,873781741,372629936,241,792
+ifMetric_a6438782,1.3.6.1.2.1.34.10,Counter for outbound errors,Ethernet,Down,Up,104631682,186258521,253,107
+ifMetric_354d2a4f,1.3.6.1.2.1.5.15,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,829263131,524193262,245,178
+ifMetric_504d859f,1.3.6.1.2.1.64.17,MAC address of interface,WiFi,Down,Unknown,294574330,784344019,272,83
+ifMetric_516bceb8,1.3.6.1.2.1.57.94,High-capacity counter for inbound traffic,Loopback,Testing,Down,138821463,318183777,468,662
+ifMetric_70f32a9d,1.3.6.1.2.1.48.60,High-capacity counter for inbound traffic,ATM,Testing,Down,767758894,625579371,372,475
+ifMetric_08beedda,1.3.6.1.2.1.65.90,Administrative status of interface,Loopback,Down,Up,223822918,267613124,812,364
+ifMetric_d49cb1e3,1.3.6.1.2.1.85.81,MAC address of interface,WiFi,Down,Unknown,122665067,405431043,558,522
+ifMetric_20dd6fe2,1.3.6.1.2.1.71.51,MAC address of interface,PPP,Down,Unknown,948372842,121385077,29,439
+ifMetric_a11f481e,1.3.6.1.2.1.98.1,Counter for outbound errors,ATM,Down,Unknown,760824338,442297018,285,9
+ifMetric_8c146709,1.3.6.1.2.1.57.70,Counter for outbound errors,Loopback,Testing,Unknown,662679359,249593945,960,637
+ifMetric_62a7c945,1.3.6.1.2.1.93.13,Operational status of interface,Loopback,Up,Up,618798542,516725029,842,96
+ifMetric_c3aa9b1a,1.3.6.1.2.1.43.89,Inbound traffic errors,PPP,Up,Unknown,259713650,768549707,70,283
+ifMetric_4014c1be,1.3.6.1.2.1.71.62,Inbound traffic errors,ATM,Down,Unknown,810340173,903443441,226,406
+ifMetric_b03e24be,1.3.6.1.2.1.28.75,Operational status of interface,Loopback,Up,Unknown,282526068,658155036,346,754
+ifMetric_c18edf53,1.3.6.1.2.1.13.88,Inbound traffic errors,Ethernet,Testing,Up,613570746,970777018,2,944
+ifMetric_6b61b346,1.3.6.1.2.1.91.11,Operational status of interface,ATM,Testing,Down,971154425,803559457,849,829
+ifMetric_6ba93573,1.3.6.1.2.1.9.38,Inbound traffic errors,ATM,Up,Unknown,700714722,290698941,211,891
+ifMetric_1b4ea2f4,1.3.6.1.2.1.79.13,Operational status of interface,WiFi,Down,Down,375303509,853231163,511,409
+ifMetric_7e377c02,1.3.6.1.2.1.62.54,Inbound traffic errors,Loopback,Down,Down,570657472,657355153,737,733
+ifMetric_276e5b36,1.3.6.1.2.1.9.78,Counter for outbound errors,ATM,Testing,Up,900050097,899795126,817,258
+ifMetric_42400b2c,1.3.6.1.2.1.99.88,Administrative status of interface,PPP,Testing,Down,704439327,459753810,549,92
+ifMetric_5204aeea,1.3.6.1.2.1.11.5,MAC address of interface,Loopback,Down,Up,279039866,558861477,750,683
+ifMetric_cdc84924,1.3.6.1.2.1.6.27,Counter for outbound errors,WiFi,Down,Unknown,784675123,215480452,18,121
+ifMetric_609dd736,1.3.6.1.2.1.49.19,Counter for outbound errors,Ethernet,Down,Up,502022644,81478044,49,965
+ifMetric_00fdf718,1.3.6.1.2.1.85.53,High-capacity counter for inbound traffic,ATM,Down,Unknown,416221904,598785867,301,394
+ifMetric_be643b8e,1.3.6.1.2.1.45.55,MAC address of interface,PPP,Testing,Down,382723111,313880572,539,234
+ifMetric_79237ef0,1.3.6.1.2.1.8.64,High-capacity counter for inbound traffic,ATM,Up,Up,587575068,6066849,902,680
+ifMetric_aa3c1eeb,1.3.6.1.2.1.34.25,Administrative status of interface,Ethernet,Up,Up,365201278,547398695,245,961
+ifMetric_479d4e1a,1.3.6.1.2.1.32.39,High-capacity counter for inbound traffic,PPP,Down,Down,454163757,72415612,713,773
+ifMetric_fbd257a1,1.3.6.1.2.1.21.22,Administrative status of interface,WiFi,Testing,Up,127113781,163010410,527,951
+ifMetric_4865b228,1.3.6.1.2.1.59.23,Inbound traffic errors,WiFi,Down,Down,944770913,918899555,863,623
+ifMetric_b148de9d,1.3.6.1.2.1.5.86,High-capacity counter for inbound traffic,Ethernet,Down,Down,219852555,837172854,182,53
+ifMetric_ddce72e8,1.3.6.1.2.1.68.62,Counter for outbound errors,Ethernet,Down,Up,723174792,844232223,172,651
+ifMetric_be370e82,1.3.6.1.2.1.95.80,Administrative status of interface,WiFi,Up,Unknown,197669587,513933328,119,812
+ifMetric_dcd4651a,1.3.6.1.2.1.56.35,MAC address of interface,Loopback,Testing,Down,614626276,571186812,843,352
+ifMetric_b415f721,1.3.6.1.2.1.59.28,Counter for outbound errors,PPP,Testing,Down,173759957,334681465,872,859
+ifMetric_f5093876,1.3.6.1.2.1.32.79,MAC address of interface,WiFi,Down,Unknown,376262390,765345577,518,428
+ifMetric_8530356e,1.3.6.1.2.1.15.48,Inbound traffic errors,Ethernet,Testing,Unknown,220592213,77537672,574,291
+ifMetric_8d51b5e9,1.3.6.1.2.1.15.87,Counter for outbound errors,PPP,Up,Down,676226665,202619965,20,350
+ifMetric_3ccc3f56,1.3.6.1.2.1.74.46,High-capacity counter for inbound traffic,WiFi,Testing,Down,551690525,108713225,664,606
+ifMetric_3b977b4b,1.3.6.1.2.1.26.70,Inbound traffic errors,Loopback,Up,Unknown,542388390,170322350,15,482
+ifMetric_90d08ef8,1.3.6.1.2.1.19.94,Administrative status of interface,Ethernet,Testing,Up,213999733,408214736,868,17
+ifMetric_03ca6f8e,1.3.6.1.2.1.35.15,High-capacity counter for inbound traffic,Loopback,Down,Up,425648279,57790424,736,808
+ifMetric_b24314f4,1.3.6.1.2.1.1.58,Counter for outbound errors,Loopback,Down,Down,437587221,519385929,264,652
+ifMetric_604c6a13,1.3.6.1.2.1.30.1,Inbound traffic errors,ATM,Down,Unknown,320464586,151906549,901,250
+ifMetric_6143639e,1.3.6.1.2.1.67.42,Inbound traffic errors,Loopback,Up,Unknown,931294719,932721731,620,871
+ifMetric_dfc54f15,1.3.6.1.2.1.33.17,MAC address of interface,ATM,Up,Down,85488300,532194515,64,575
+ifMetric_aa8ec1a0,1.3.6.1.2.1.21.76,Inbound traffic errors,ATM,Testing,Up,115750648,565548907,572,564
+ifMetric_6b6e9b12,1.3.6.1.2.1.81.90,Inbound traffic errors,Ethernet,Up,Unknown,958436743,207748461,54,745
+ifMetric_bb3a84b8,1.3.6.1.2.1.14.92,MAC address of interface,Loopback,Up,Up,597003292,124575760,171,501
+ifMetric_91ad8db7,1.3.6.1.2.1.93.11,Operational status of interface,Ethernet,Testing,Up,487013857,742404457,284,750
+ifMetric_ec5e7b2a,1.3.6.1.2.1.96.82,Counter for outbound errors,Ethernet,Down,Unknown,22079341,559444132,60,821
+ifMetric_abda969e,1.3.6.1.2.1.50.81,Counter for outbound errors,WiFi,Testing,Unknown,419507599,306650968,310,82
+ifMetric_901657de,1.3.6.1.2.1.70.5,High-capacity counter for inbound traffic,Ethernet,Down,Down,450267720,523903799,959,283
+ifMetric_ee83fcf0,1.3.6.1.2.1.51.91,Administrative status of interface,PPP,Testing,Up,438739697,167227872,396,869
+ifMetric_7acca077,1.3.6.1.2.1.15.95,High-capacity counter for inbound traffic,Ethernet,Down,Down,835567042,660014286,438,732
+ifMetric_2cea8f34,1.3.6.1.2.1.1.45,High-capacity counter for inbound traffic,WiFi,Up,Down,829346750,472351780,161,504
+ifMetric_b0392283,1.3.6.1.2.1.100.81,Operational status of interface,Loopback,Down,Down,526788843,803092230,118,136
+ifMetric_7225deb9,1.3.6.1.2.1.88.49,High-capacity counter for inbound traffic,ATM,Up,Down,505086268,774588522,274,852
+ifMetric_5ae32ce5,1.3.6.1.2.1.12.51,Operational status of interface,WiFi,Up,Unknown,615611791,34428076,717,520
+ifMetric_1037a081,1.3.6.1.2.1.9.14,Operational status of interface,WiFi,Testing,Unknown,954404582,471110813,41,837
+ifMetric_82282d3a,1.3.6.1.2.1.11.63,Inbound traffic errors,Ethernet,Up,Unknown,705512544,323468245,226,661
+ifMetric_b54513d2,1.3.6.1.2.1.9.42,Administrative status of interface,Ethernet,Down,Up,361376636,840393482,0,695
+ifMetric_da2310fa,1.3.6.1.2.1.31.90,Administrative status of interface,PPP,Testing,Down,751032044,81227998,537,676
+ifMetric_3ae00299,1.3.6.1.2.1.27.33,High-capacity counter for inbound traffic,PPP,Testing,Unknown,733709799,769803307,431,294
+ifMetric_0d726681,1.3.6.1.2.1.82.83,Operational status of interface,ATM,Testing,Unknown,688719349,563961658,940,845
+ifMetric_082c83a2,1.3.6.1.2.1.60.96,Administrative status of interface,Loopback,Up,Unknown,975151496,922549151,702,624
+ifMetric_0d03633a,1.3.6.1.2.1.9.84,Inbound traffic errors,Loopback,Up,Up,551795460,157386089,598,151
+ifMetric_1fe06ebb,1.3.6.1.2.1.66.88,Counter for outbound errors,WiFi,Down,Up,558445181,91844415,905,867
+ifMetric_cf856dca,1.3.6.1.2.1.36.50,Operational status of interface,ATM,Down,Up,822612404,457963787,656,659
+ifMetric_11c66075,1.3.6.1.2.1.55.63,High-capacity counter for inbound traffic,WiFi,Up,Unknown,412867914,512815415,10,630
+ifMetric_537b9189,1.3.6.1.2.1.89.11,Counter for outbound errors,ATM,Up,Unknown,69570461,658412800,993,621
+ifMetric_62b03fae,1.3.6.1.2.1.59.19,High-capacity counter for inbound traffic,WiFi,Testing,Down,459276679,213434206,343,635
+ifMetric_d6bc6b25,1.3.6.1.2.1.56.89,High-capacity counter for inbound traffic,ATM,Up,Unknown,251187834,12632949,67,151
+ifMetric_7a6378de,1.3.6.1.2.1.40.3,MAC address of interface,Ethernet,Testing,Unknown,458568338,436685598,911,641
+ifMetric_94024af1,1.3.6.1.2.1.90.70,Administrative status of interface,PPP,Up,Up,76518215,694799806,332,87
+ifMetric_be02a92e,1.3.6.1.2.1.3.2,Counter for outbound errors,WiFi,Up,Down,617410863,85273251,821,797
+ifMetric_6ee28f7b,1.3.6.1.2.1.34.55,MAC address of interface,PPP,Up,Unknown,456698431,718582692,103,83
+ifMetric_42440e37,1.3.6.1.2.1.42.73,High-capacity counter for inbound traffic,Ethernet,Testing,Down,467544887,915279171,120,425
+ifMetric_88b2113a,1.3.6.1.2.1.49.41,MAC address of interface,WiFi,Testing,Down,862128392,720447013,314,746
+ifMetric_f1ab1898,1.3.6.1.2.1.3.10,Operational status of interface,Loopback,Down,Unknown,618165118,310432177,596,818
+ifMetric_7a796c0a,1.3.6.1.2.1.97.43,High-capacity counter for inbound traffic,Loopback,Up,Unknown,197770045,845381282,421,7
+ifMetric_d90e376e,1.3.6.1.2.1.66.48,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,118100627,695289017,91,924
+ifMetric_d54b62ff,1.3.6.1.2.1.91.46,Counter for outbound errors,ATM,Down,Up,777206410,981132396,960,437
+ifMetric_fc3a41fe,1.3.6.1.2.1.51.55,Counter for outbound errors,Ethernet,Testing,Up,85872020,77406843,37,207
+ifMetric_732ccc1a,1.3.6.1.2.1.21.61,High-capacity counter for inbound traffic,ATM,Down,Down,700333881,159296610,154,106
+ifMetric_8b79aa95,1.3.6.1.2.1.53.2,Inbound traffic errors,WiFi,Up,Up,414039854,295053360,65,656
+ifMetric_28f8342a,1.3.6.1.2.1.97.93,Counter for outbound errors,ATM,Testing,Down,422787762,328351637,507,193
+ifMetric_7f9f0dcf,1.3.6.1.2.1.97.4,Operational status of interface,PPP,Down,Unknown,348448418,559364042,37,858
+ifMetric_b5e8f31c,1.3.6.1.2.1.11.27,MAC address of interface,ATM,Up,Down,753137960,363330794,755,323
+ifMetric_10efc1bc,1.3.6.1.2.1.30.79,MAC address of interface,Ethernet,Down,Unknown,423621986,195307866,621,969
+ifMetric_50141745,1.3.6.1.2.1.34.41,Operational status of interface,WiFi,Up,Unknown,985674259,408581100,786,461
+ifMetric_5260d74a,1.3.6.1.2.1.88.46,Operational status of interface,Ethernet,Down,Down,955315834,620195562,632,906
+ifMetric_e1f9d015,1.3.6.1.2.1.95.100,Operational status of interface,ATM,Testing,Unknown,849452721,949312600,822,936
+ifMetric_d6af51ce,1.3.6.1.2.1.20.44,Counter for outbound errors,ATM,Up,Unknown,339122011,511603328,573,938
+ifMetric_2581bd77,1.3.6.1.2.1.19.83,Administrative status of interface,WiFi,Down,Unknown,865389996,293940711,493,18
+ifMetric_f4bfc2f7,1.3.6.1.2.1.79.90,Administrative status of interface,ATM,Down,Up,541923247,429401665,23,696
+ifMetric_fa8c6d9a,1.3.6.1.2.1.78.76,Administrative status of interface,WiFi,Testing,Unknown,739162100,248071634,20,486
+ifMetric_9a661796,1.3.6.1.2.1.34.68,High-capacity counter for inbound traffic,PPP,Up,Down,263228312,126163418,736,953
+ifMetric_9eaac540,1.3.6.1.2.1.26.88,Administrative status of interface,Loopback,Up,Up,318528388,643216292,368,19
+ifMetric_50cec7bd,1.3.6.1.2.1.84.88,Operational status of interface,WiFi,Testing,Unknown,686927391,658910979,630,857
+ifMetric_84b6d0ba,1.3.6.1.2.1.26.36,Counter for outbound errors,WiFi,Up,Up,222415071,658770159,555,377
+ifMetric_7796a7a9,1.3.6.1.2.1.40.35,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,24155813,681077966,839,972
+ifMetric_50dd04f8,1.3.6.1.2.1.27.50,MAC address of interface,WiFi,Up,Unknown,11880344,251340092,709,178
+ifMetric_46a26e0a,1.3.6.1.2.1.96.77,Operational status of interface,Loopback,Down,Unknown,929295184,701865973,31,541
+ifMetric_57925370,1.3.6.1.2.1.77.23,Administrative status of interface,Loopback,Up,Unknown,686541628,908253344,308,935
+ifMetric_31b21ea7,1.3.6.1.2.1.92.46,Counter for outbound errors,Loopback,Down,Unknown,601374490,67522761,858,772
+ifMetric_9b914d30,1.3.6.1.2.1.7.11,Counter for outbound errors,ATM,Down,Unknown,499465732,777000897,931,292
+ifMetric_bcfe7aa5,1.3.6.1.2.1.36.21,Administrative status of interface,ATM,Up,Unknown,796105945,369484425,397,343
+ifMetric_0fc21975,1.3.6.1.2.1.80.80,Counter for outbound errors,Loopback,Testing,Up,618436961,883888460,607,221
+ifMetric_8f761a8d,1.3.6.1.2.1.72.59,Operational status of interface,PPP,Testing,Up,343905698,459541522,323,613
+ifMetric_0c3d73a0,1.3.6.1.2.1.52.9,Administrative status of interface,WiFi,Up,Unknown,300583231,595334607,6,412
+ifMetric_a3c92090,1.3.6.1.2.1.89.98,Administrative status of interface,Loopback,Down,Unknown,75421587,533520241,44,315
+ifMetric_26e6502d,1.3.6.1.2.1.8.35,Administrative status of interface,Ethernet,Down,Unknown,549380645,396766441,769,205
+ifMetric_8d9c5d1a,1.3.6.1.2.1.94.83,MAC address of interface,PPP,Down,Unknown,787858257,592812002,490,843
+ifMetric_028aad0f,1.3.6.1.2.1.46.3,Inbound traffic errors,Ethernet,Up,Up,631774741,986932591,171,981
+ifMetric_40df5461,1.3.6.1.2.1.23.50,High-capacity counter for inbound traffic,ATM,Testing,Unknown,954890378,498461884,564,610
+ifMetric_75c5bb2d,1.3.6.1.2.1.85.73,Operational status of interface,PPP,Down,Unknown,110306896,617028032,331,377
+ifMetric_f00e61af,1.3.6.1.2.1.56.55,Administrative status of interface,Loopback,Up,Up,621455210,816539789,190,146
+ifMetric_43cd06dc,1.3.6.1.2.1.78.63,Operational status of interface,WiFi,Up,Up,89679980,466047428,176,367
+ifMetric_93c70960,1.3.6.1.2.1.72.87,Inbound traffic errors,WiFi,Testing,Up,826741542,278087146,206,429
+ifMetric_fdb723d3,1.3.6.1.2.1.65.9,High-capacity counter for inbound traffic,WiFi,Testing,Down,346148806,180597372,910,984
+ifMetric_ba04f766,1.3.6.1.2.1.50.90,High-capacity counter for inbound traffic,Loopback,Up,Up,557329592,938215486,245,149
+ifMetric_97b61f0b,1.3.6.1.2.1.28.22,Counter for outbound errors,Ethernet,Down,Unknown,837817410,380427193,518,649
+ifMetric_d610821b,1.3.6.1.2.1.94.37,Operational status of interface,PPP,Down,Down,439939969,589195123,41,66
+ifMetric_0de52089,1.3.6.1.2.1.78.61,Inbound traffic errors,ATM,Up,Up,870436857,104117835,335,686
+ifMetric_29b75896,1.3.6.1.2.1.11.71,MAC address of interface,Loopback,Testing,Up,196684809,404622487,208,585
+ifMetric_cf603ff3,1.3.6.1.2.1.30.16,High-capacity counter for inbound traffic,Loopback,Up,Unknown,740943542,931671648,637,858
+ifMetric_476dbaaa,1.3.6.1.2.1.29.17,High-capacity counter for inbound traffic,PPP,Up,Up,365064617,730302874,894,356
+ifMetric_e8e40149,1.3.6.1.2.1.86.100,Operational status of interface,WiFi,Testing,Down,207126978,170132604,157,819
+ifMetric_3759d1c5,1.3.6.1.2.1.30.57,Administrative status of interface,PPP,Up,Down,211232429,921223281,616,252
+ifMetric_8601032f,1.3.6.1.2.1.51.36,Counter for outbound errors,ATM,Testing,Down,451549707,489521525,167,50
+ifMetric_019db826,1.3.6.1.2.1.49.67,Administrative status of interface,Loopback,Down,Up,182923671,327163957,268,549
+ifMetric_077a2afa,1.3.6.1.2.1.41.100,High-capacity counter for inbound traffic,ATM,Up,Unknown,817973319,176777972,337,974
+ifMetric_e9607972,1.3.6.1.2.1.24.53,MAC address of interface,Ethernet,Up,Up,412383276,282597557,288,712
+ifMetric_fedddd63,1.3.6.1.2.1.74.69,Operational status of interface,ATM,Up,Unknown,999518094,845622755,899,124
+ifMetric_9b411a34,1.3.6.1.2.1.97.13,High-capacity counter for inbound traffic,WiFi,Testing,Up,312894077,539478292,827,444
+ifMetric_efca501b,1.3.6.1.2.1.51.69,Administrative status of interface,ATM,Down,Up,996208723,297798123,268,210
+ifMetric_e0dc1603,1.3.6.1.2.1.37.51,Counter for outbound errors,WiFi,Up,Up,730682055,321444840,335,466
+ifMetric_00747b31,1.3.6.1.2.1.89.11,MAC address of interface,PPP,Up,Up,774852328,185854477,366,449
+ifMetric_a3b0abd6,1.3.6.1.2.1.68.58,Counter for outbound errors,WiFi,Up,Down,490620273,752438665,356,59
+ifMetric_15a0588a,1.3.6.1.2.1.30.70,Administrative status of interface,PPP,Up,Down,4501388,939862700,404,522
+ifMetric_6edb7d3e,1.3.6.1.2.1.38.78,Administrative status of interface,WiFi,Testing,Unknown,402263803,914128295,370,271
+ifMetric_2f3a1491,1.3.6.1.2.1.82.48,MAC address of interface,Ethernet,Testing,Unknown,625361908,537978968,603,380
+ifMetric_a6b303a5,1.3.6.1.2.1.60.88,Inbound traffic errors,ATM,Testing,Down,253182920,962297014,369,722
+ifMetric_aaa39ff1,1.3.6.1.2.1.6.34,Operational status of interface,ATM,Testing,Up,694395919,856516316,794,798
+ifMetric_7ba1258e,1.3.6.1.2.1.11.63,Inbound traffic errors,PPP,Up,Up,899100889,279885499,506,132
+ifMetric_82a759b0,1.3.6.1.2.1.42.47,Inbound traffic errors,PPP,Testing,Up,116189439,497579607,370,185
+ifMetric_90511155,1.3.6.1.2.1.21.52,Counter for outbound errors,Loopback,Down,Down,172800211,418004596,356,9
+ifMetric_a201a4cf,1.3.6.1.2.1.29.68,Inbound traffic errors,ATM,Down,Up,895037283,267130109,570,770
+ifMetric_ab548fe1,1.3.6.1.2.1.73.12,Counter for outbound errors,Loopback,Up,Up,412491808,242417998,242,607
+ifMetric_ec1fc91a,1.3.6.1.2.1.84.42,Operational status of interface,WiFi,Down,Unknown,942449037,862505445,994,143
+ifMetric_b9e2882b,1.3.6.1.2.1.29.88,Counter for outbound errors,Ethernet,Testing,Down,386953982,450280191,15,829
+ifMetric_dbeb4325,1.3.6.1.2.1.7.95,High-capacity counter for inbound traffic,Loopback,Down,Down,818800565,519368295,529,895
+ifMetric_4274e1b1,1.3.6.1.2.1.96.13,Operational status of interface,WiFi,Testing,Down,264557017,907482892,740,962
+ifMetric_4d29f86f,1.3.6.1.2.1.91.55,High-capacity counter for inbound traffic,Loopback,Down,Unknown,945707693,407088745,287,571
+ifMetric_a231142a,1.3.6.1.2.1.76.39,Operational status of interface,Loopback,Testing,Up,47417990,278777574,547,253
+ifMetric_ba7d2770,1.3.6.1.2.1.1.34,Operational status of interface,PPP,Testing,Down,556454817,587036487,883,248
+ifMetric_98d9b935,1.3.6.1.2.1.85.52,Operational status of interface,WiFi,Testing,Unknown,398872,505308435,120,502
+ifMetric_b316c026,1.3.6.1.2.1.79.28,Operational status of interface,WiFi,Testing,Up,151401819,761856996,689,295
+ifMetric_acafa695,1.3.6.1.2.1.76.66,Counter for outbound errors,ATM,Down,Up,387952587,126006850,468,909
+ifMetric_f68b369f,1.3.6.1.2.1.15.8,Administrative status of interface,Loopback,Down,Up,407049600,303996676,714,341
+ifMetric_dba67a46,1.3.6.1.2.1.37.6,High-capacity counter for inbound traffic,PPP,Up,Unknown,543661143,790908148,538,641
+ifMetric_e843543e,1.3.6.1.2.1.53.96,High-capacity counter for inbound traffic,Loopback,Up,Down,267194158,65656384,384,239
+ifMetric_755ecf97,1.3.6.1.2.1.48.24,Administrative status of interface,Ethernet,Down,Up,9102651,895481494,255,293
+ifMetric_9956ae81,1.3.6.1.2.1.81.62,High-capacity counter for inbound traffic,PPP,Up,Up,533512897,816171935,550,798
+ifMetric_bdb5e2ce,1.3.6.1.2.1.16.62,High-capacity counter for inbound traffic,WiFi,Down,Down,171700678,15144625,39,952
+ifMetric_fbeaf11f,1.3.6.1.2.1.2.7,MAC address of interface,Loopback,Up,Up,874800789,364694451,97,231
+ifMetric_9b6aaeab,1.3.6.1.2.1.46.20,High-capacity counter for inbound traffic,Ethernet,Testing,Up,155965516,572927456,557,618
+ifMetric_32a8fd0e,1.3.6.1.2.1.57.57,MAC address of interface,Loopback,Testing,Down,555520376,628767691,36,485
+ifMetric_dc6fa72c,1.3.6.1.2.1.55.78,Inbound traffic errors,Loopback,Down,Down,499206677,275676684,93,544
+ifMetric_70b3a8b4,1.3.6.1.2.1.49.40,Inbound traffic errors,WiFi,Down,Up,962538015,818140491,797,192
+ifMetric_ecab4159,1.3.6.1.2.1.65.82,High-capacity counter for inbound traffic,ATM,Testing,Down,819526527,645602988,83,233
+ifMetric_b8aa06af,1.3.6.1.2.1.37.30,MAC address of interface,Ethernet,Down,Up,770618908,941784887,423,142
+ifMetric_afa5b7d6,1.3.6.1.2.1.6.57,Operational status of interface,WiFi,Testing,Up,822040876,108398723,925,223
+ifMetric_43e7318b,1.3.6.1.2.1.29.1,Counter for outbound errors,Loopback,Up,Down,969429271,630508798,497,58
+ifMetric_accb4181,1.3.6.1.2.1.78.39,Counter for outbound errors,Loopback,Up,Down,864830004,457657782,193,322
+ifMetric_70d5ef24,1.3.6.1.2.1.15.6,High-capacity counter for inbound traffic,Loopback,Testing,Up,791996014,728845884,67,359
+ifMetric_3f74af35,1.3.6.1.2.1.59.11,Operational status of interface,Ethernet,Down,Unknown,402742373,951851007,864,249
+ifMetric_943bcc18,1.3.6.1.2.1.37.66,Inbound traffic errors,PPP,Up,Unknown,902392958,261342360,671,515
+ifMetric_b59c3a30,1.3.6.1.2.1.10.94,Counter for outbound errors,Ethernet,Down,Down,536887768,559257445,274,845
+ifMetric_805eba1f,1.3.6.1.2.1.27.97,MAC address of interface,ATM,Down,Down,411134377,362524795,546,593
+ifMetric_1e2c4d06,1.3.6.1.2.1.15.87,Operational status of interface,ATM,Up,Up,948118914,223693655,667,927
+ifMetric_e85c0844,1.3.6.1.2.1.91.72,High-capacity counter for inbound traffic,ATM,Testing,Up,952163461,859987619,194,602
+ifMetric_57eb755d,1.3.6.1.2.1.19.96,MAC address of interface,ATM,Up,Down,993613381,890624100,240,911
+ifMetric_654e309d,1.3.6.1.2.1.85.66,Inbound traffic errors,Loopback,Down,Down,439341285,356343256,734,58
+ifMetric_1f9f8033,1.3.6.1.2.1.40.22,Administrative status of interface,WiFi,Up,Up,90564804,37116344,680,767
+ifMetric_138f4927,1.3.6.1.2.1.29.29,Operational status of interface,PPP,Testing,Down,332903181,628748478,605,399
+ifMetric_87804eed,1.3.6.1.2.1.71.57,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,642846768,34750201,297,658
+ifMetric_3aff1af0,1.3.6.1.2.1.78.71,Counter for outbound errors,Ethernet,Down,Unknown,715278393,563078010,581,301
+ifMetric_c47cdfb0,1.3.6.1.2.1.78.91,MAC address of interface,Loopback,Up,Unknown,523943250,453383683,446,860
+ifMetric_534eb664,1.3.6.1.2.1.86.90,MAC address of interface,Ethernet,Testing,Up,665069414,961922930,411,688
+ifMetric_47053699,1.3.6.1.2.1.38.90,Counter for outbound errors,Ethernet,Down,Unknown,439889860,177611426,413,318
+ifMetric_d42f2ba8,1.3.6.1.2.1.86.41,High-capacity counter for inbound traffic,WiFi,Testing,Up,265122994,343996039,253,933
+ifMetric_a5d727e8,1.3.6.1.2.1.56.99,Counter for outbound errors,WiFi,Down,Down,942389505,332100997,720,424
+ifMetric_9441b054,1.3.6.1.2.1.14.9,Administrative status of interface,Ethernet,Up,Unknown,995942122,399827787,242,273
+ifMetric_906fb728,1.3.6.1.2.1.5.99,Administrative status of interface,Ethernet,Down,Unknown,571170222,555283359,140,640
+ifMetric_f02cf4dc,1.3.6.1.2.1.96.66,Operational status of interface,Loopback,Up,Unknown,572010000,277785147,786,583
+ifMetric_567073b4,1.3.6.1.2.1.52.9,Operational status of interface,ATM,Down,Up,533233102,68719511,811,495
+ifMetric_ea52784a,1.3.6.1.2.1.90.83,Inbound traffic errors,PPP,Up,Up,257866885,897227946,937,397
+ifMetric_355c47b1,1.3.6.1.2.1.63.65,Counter for outbound errors,PPP,Up,Up,807538071,58700712,240,767
+ifMetric_d70583a3,1.3.6.1.2.1.50.59,High-capacity counter for inbound traffic,Ethernet,Testing,Down,808116440,615547762,672,72
+ifMetric_dffd7839,1.3.6.1.2.1.81.60,High-capacity counter for inbound traffic,Ethernet,Down,Up,459972034,741342678,739,764
+ifMetric_0189dee5,1.3.6.1.2.1.10.69,MAC address of interface,ATM,Down,Unknown,745197486,120003954,347,245
+ifMetric_fdeeeec0,1.3.6.1.2.1.26.83,High-capacity counter for inbound traffic,PPP,Testing,Down,415069867,962126936,378,22
+ifMetric_570a8b50,1.3.6.1.2.1.24.37,Inbound traffic errors,Loopback,Down,Unknown,307481545,630855794,48,58
+ifMetric_6d0be030,1.3.6.1.2.1.7.67,Administrative status of interface,PPP,Testing,Unknown,294273469,662064447,546,168
+ifMetric_488a735e,1.3.6.1.2.1.2.41,Operational status of interface,WiFi,Up,Up,486105622,288366813,199,816
+ifMetric_eddfefaa,1.3.6.1.2.1.59.30,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,258765962,900207677,72,433
+ifMetric_343a4c52,1.3.6.1.2.1.52.95,Counter for outbound errors,WiFi,Testing,Unknown,574385764,556411750,926,464
+ifMetric_cf20d3d2,1.3.6.1.2.1.39.19,Operational status of interface,PPP,Down,Up,509826596,78111955,544,735
+ifMetric_a4ff7dcd,1.3.6.1.2.1.30.55,Inbound traffic errors,PPP,Testing,Unknown,107420905,406001259,893,418
+ifMetric_25dcab26,1.3.6.1.2.1.65.27,Inbound traffic errors,PPP,Testing,Down,635530033,80076540,274,647
+ifMetric_e54a4955,1.3.6.1.2.1.51.40,Operational status of interface,ATM,Up,Down,439294997,96732042,601,706
+ifMetric_7b4d2b54,1.3.6.1.2.1.33.2,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,287192162,827840612,232,744
+ifMetric_a4c1a34d,1.3.6.1.2.1.88.65,Administrative status of interface,Ethernet,Up,Up,161728319,750780083,939,570
+ifMetric_8aa29d22,1.3.6.1.2.1.24.83,Counter for outbound errors,ATM,Down,Unknown,226082397,10972985,787,507
+ifMetric_d52ce748,1.3.6.1.2.1.84.14,Inbound traffic errors,Ethernet,Down,Down,591577983,824493517,824,479
+ifMetric_3bd3e449,1.3.6.1.2.1.100.60,Inbound traffic errors,WiFi,Testing,Unknown,963550815,706586426,812,149
+ifMetric_8afcf658,1.3.6.1.2.1.70.53,MAC address of interface,PPP,Testing,Down,767545217,367959827,334,497
+ifMetric_f1ad8b5b,1.3.6.1.2.1.42.46,MAC address of interface,PPP,Up,Down,653343828,708908925,191,711
+ifMetric_c7c1d0fe,1.3.6.1.2.1.74.8,Inbound traffic errors,ATM,Testing,Down,224442254,321077849,368,582
+ifMetric_4267474c,1.3.6.1.2.1.72.30,MAC address of interface,Loopback,Up,Unknown,921122134,142154789,223,52
+ifMetric_cd736ec7,1.3.6.1.2.1.90.99,Counter for outbound errors,PPP,Up,Up,491670962,448380867,943,145
+ifMetric_b8db0388,1.3.6.1.2.1.59.82,Inbound traffic errors,Ethernet,Testing,Unknown,961343675,859950229,764,207
+ifMetric_82506760,1.3.6.1.2.1.19.39,Counter for outbound errors,Ethernet,Down,Unknown,339836085,454871393,639,201
+ifMetric_ff97c44c,1.3.6.1.2.1.75.50,MAC address of interface,Ethernet,Testing,Down,154748657,28632637,228,103
+ifMetric_4582a5af,1.3.6.1.2.1.62.85,MAC address of interface,Loopback,Up,Unknown,804746068,502343830,561,974
+ifMetric_66cef2a3,1.3.6.1.2.1.68.42,Administrative status of interface,Ethernet,Testing,Down,485466501,8913236,324,541
+ifMetric_d3d7153d,1.3.6.1.2.1.31.36,Counter for outbound errors,Loopback,Down,Unknown,711182285,852551961,208,136
+ifMetric_f56d9a41,1.3.6.1.2.1.52.90,Counter for outbound errors,Loopback,Down,Down,202716185,874142852,529,407
+ifMetric_2c1a2a7b,1.3.6.1.2.1.40.37,Operational status of interface,Loopback,Testing,Down,653281571,95590320,942,994
+ifMetric_191ecb07,1.3.6.1.2.1.36.10,High-capacity counter for inbound traffic,Ethernet,Up,Unknown,502747363,96534890,553,700
+ifMetric_ca28decb,1.3.6.1.2.1.57.44,Counter for outbound errors,Ethernet,Down,Unknown,838101326,554407733,313,510
+ifMetric_6db88241,1.3.6.1.2.1.40.14,Operational status of interface,WiFi,Down,Up,152873384,345925947,382,358
+ifMetric_474e1e4c,1.3.6.1.2.1.24.53,Counter for outbound errors,PPP,Down,Unknown,994982425,7302318,469,293
+ifMetric_10205ad3,1.3.6.1.2.1.86.76,MAC address of interface,WiFi,Up,Unknown,931846251,925851472,505,888
+ifMetric_92769f1e,1.3.6.1.2.1.45.88,Administrative status of interface,PPP,Testing,Down,438064972,550760603,473,132
+ifMetric_7864e403,1.3.6.1.2.1.10.68,Operational status of interface,Loopback,Down,Up,251920253,41133140,717,583
+ifMetric_5e6fe315,1.3.6.1.2.1.50.96,High-capacity counter for inbound traffic,Loopback,Testing,Up,833154450,12629464,996,469
+ifMetric_e1ae22c9,1.3.6.1.2.1.41.63,Administrative status of interface,Ethernet,Down,Up,784036383,471928942,48,191
+ifMetric_002feb51,1.3.6.1.2.1.4.2,Administrative status of interface,PPP,Testing,Unknown,984539788,35587856,416,200
+ifMetric_57b5745a,1.3.6.1.2.1.15.95,Operational status of interface,WiFi,Down,Unknown,921287797,757339507,550,702
+ifMetric_f8033912,1.3.6.1.2.1.61.70,Operational status of interface,WiFi,Testing,Unknown,878984460,198682284,345,513
+ifMetric_4f2e8df4,1.3.6.1.2.1.98.67,Inbound traffic errors,ATM,Up,Unknown,380392562,943149166,760,979
+ifMetric_fced9247,1.3.6.1.2.1.100.88,MAC address of interface,ATM,Down,Down,6810138,352458729,75,173
+ifMetric_124eed3c,1.3.6.1.2.1.65.46,MAC address of interface,Ethernet,Up,Up,380903803,367125133,571,383
+ifMetric_c08dd377,1.3.6.1.2.1.2.62,High-capacity counter for inbound traffic,WiFi,Up,Down,86605061,511055270,745,473
+ifMetric_e1947431,1.3.6.1.2.1.60.30,Inbound traffic errors,ATM,Up,Down,675805481,494119825,285,393
+ifMetric_5c510709,1.3.6.1.2.1.49.4,Counter for outbound errors,Loopback,Testing,Down,570189920,3682225,177,496
+ifMetric_1381f42f,1.3.6.1.2.1.2.91,MAC address of interface,PPP,Down,Down,778426312,665053512,322,648
+ifMetric_81986a39,1.3.6.1.2.1.7.18,Counter for outbound errors,Loopback,Testing,Down,661087956,607591419,456,735
+ifMetric_ee0b8f1c,1.3.6.1.2.1.88.47,Inbound traffic errors,PPP,Up,Up,432556021,553546204,887,920
+ifMetric_e71be895,1.3.6.1.2.1.29.46,Operational status of interface,Loopback,Up,Up,571634923,596411478,678,430
+ifMetric_d6b45aca,1.3.6.1.2.1.36.64,Operational status of interface,PPP,Testing,Unknown,309962826,631806303,989,758
+ifMetric_9305d1c0,1.3.6.1.2.1.92.65,MAC address of interface,Ethernet,Testing,Unknown,834740096,615863434,224,289
+ifMetric_06969945,1.3.6.1.2.1.12.20,High-capacity counter for inbound traffic,ATM,Testing,Unknown,738458568,628150581,153,658
+ifMetric_a3311115,1.3.6.1.2.1.65.94,Operational status of interface,Ethernet,Testing,Up,555327326,66403290,29,671
+ifMetric_af2a7483,1.3.6.1.2.1.15.28,Administrative status of interface,WiFi,Down,Up,216927784,945696924,405,315
+ifMetric_a059e7c8,1.3.6.1.2.1.55.54,Administrative status of interface,PPP,Down,Down,455235847,676083624,544,837
+ifMetric_d98de238,1.3.6.1.2.1.96.21,Administrative status of interface,PPP,Down,Unknown,679671455,513155195,486,800
+ifMetric_1d38d320,1.3.6.1.2.1.32.91,Inbound traffic errors,Loopback,Testing,Up,66594141,745211201,497,159
+ifMetric_50910636,1.3.6.1.2.1.50.72,High-capacity counter for inbound traffic,PPP,Testing,Unknown,824835914,237437399,903,112
+ifMetric_61a35db5,1.3.6.1.2.1.23.1,High-capacity counter for inbound traffic,Loopback,Testing,Up,584973729,639747245,574,446
+ifMetric_fe801692,1.3.6.1.2.1.20.27,Inbound traffic errors,Ethernet,Up,Up,865824503,525004006,265,764
+ifMetric_9927e071,1.3.6.1.2.1.27.57,Operational status of interface,PPP,Up,Up,880270248,856555393,75,647
+ifMetric_35a2cc12,1.3.6.1.2.1.24.42,Operational status of interface,WiFi,Down,Up,805941708,848722509,548,226
+ifMetric_362e4a34,1.3.6.1.2.1.95.45,Operational status of interface,WiFi,Down,Unknown,922948704,463746696,528,814
+ifMetric_8fd09995,1.3.6.1.2.1.82.31,Counter for outbound errors,WiFi,Up,Up,139825840,203605673,717,629
+ifMetric_139a5311,1.3.6.1.2.1.61.35,Counter for outbound errors,Ethernet,Down,Unknown,406608611,926933502,639,70
+ifMetric_d4839c76,1.3.6.1.2.1.73.28,Administrative status of interface,Loopback,Up,Down,66372244,261867563,174,632
+ifMetric_810a0e91,1.3.6.1.2.1.8.4,MAC address of interface,Loopback,Down,Unknown,346855005,570448196,387,369
+ifMetric_54f50535,1.3.6.1.2.1.55.24,Operational status of interface,Loopback,Down,Down,246224665,116112295,384,783
+ifMetric_176a5ad6,1.3.6.1.2.1.40.16,Counter for outbound errors,Loopback,Down,Up,558620280,494177815,827,844
+ifMetric_fbedd465,1.3.6.1.2.1.24.27,High-capacity counter for inbound traffic,WiFi,Testing,Up,500164320,494458098,375,800
+ifMetric_2abe6de9,1.3.6.1.2.1.70.66,Administrative status of interface,ATM,Down,Unknown,555984781,129312903,242,15
+ifMetric_c09372da,1.3.6.1.2.1.76.28,High-capacity counter for inbound traffic,PPP,Down,Down,546461613,595305282,909,773
+ifMetric_2c538679,1.3.6.1.2.1.78.75,Inbound traffic errors,WiFi,Down,Up,910838824,596031409,456,900
+ifMetric_acd2d3f5,1.3.6.1.2.1.57.84,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,867832885,583695059,690,672
+ifMetric_15e80cad,1.3.6.1.2.1.53.61,High-capacity counter for inbound traffic,Ethernet,Testing,Up,603954201,629633340,213,7
+ifMetric_5cf36ecb,1.3.6.1.2.1.54.17,Operational status of interface,Loopback,Testing,Up,426173243,469086187,929,839
+ifMetric_d3f004cc,1.3.6.1.2.1.69.3,Inbound traffic errors,Loopback,Up,Down,929218703,220681544,847,225
+ifMetric_ba818bd1,1.3.6.1.2.1.31.75,MAC address of interface,WiFi,Down,Unknown,439109163,306866807,381,892
+ifMetric_7d300aa3,1.3.6.1.2.1.18.87,High-capacity counter for inbound traffic,Loopback,Up,Unknown,307276420,228427664,533,90
+ifMetric_cc647c32,1.3.6.1.2.1.59.44,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,914878712,807118682,398,671
+ifMetric_b9a37db8,1.3.6.1.2.1.68.81,MAC address of interface,ATM,Testing,Up,318361786,374644586,299,372
+ifMetric_22ef1713,1.3.6.1.2.1.7.4,Inbound traffic errors,Ethernet,Up,Down,318825022,376067403,418,325
+ifMetric_3848bf72,1.3.6.1.2.1.26.35,Administrative status of interface,WiFi,Up,Down,254476735,739980476,774,135
+ifMetric_c412d55a,1.3.6.1.2.1.56.93,MAC address of interface,Ethernet,Down,Down,417870409,45244863,830,249
+ifMetric_c70bce29,1.3.6.1.2.1.44.80,Operational status of interface,ATM,Up,Up,690268500,572039033,639,736
+ifMetric_07c201c2,1.3.6.1.2.1.74.34,MAC address of interface,PPP,Up,Unknown,35695306,578557946,962,95
+ifMetric_a02126b4,1.3.6.1.2.1.97.60,MAC address of interface,ATM,Down,Down,103712261,115858049,952,231
+ifMetric_9c196639,1.3.6.1.2.1.56.40,Inbound traffic errors,Ethernet,Up,Down,482518605,311991583,864,415
+ifMetric_e3d4cdae,1.3.6.1.2.1.66.37,Operational status of interface,ATM,Down,Up,292190501,580606464,614,273
+ifMetric_b7607573,1.3.6.1.2.1.36.64,High-capacity counter for inbound traffic,PPP,Testing,Up,570801749,624132451,389,912
+ifMetric_b1e6cb7f,1.3.6.1.2.1.20.69,High-capacity counter for inbound traffic,PPP,Down,Up,576368228,861119605,967,775
+ifMetric_156a6940,1.3.6.1.2.1.7.91,Operational status of interface,WiFi,Testing,Up,992329943,485571467,451,483
+ifMetric_5eabbd3a,1.3.6.1.2.1.94.20,Operational status of interface,ATM,Testing,Up,277008950,721773604,649,75
+ifMetric_346faff2,1.3.6.1.2.1.40.68,Operational status of interface,Loopback,Testing,Unknown,908294421,186454520,940,316
+ifMetric_357399ed,1.3.6.1.2.1.69.60,Operational status of interface,WiFi,Down,Up,482273998,463914076,332,30
+ifMetric_b4a21a08,1.3.6.1.2.1.11.61,MAC address of interface,ATM,Down,Unknown,780421049,531559644,183,200
+ifMetric_cfb74c36,1.3.6.1.2.1.55.54,Operational status of interface,Loopback,Up,Down,868475196,962982943,612,988
+ifMetric_1065ef28,1.3.6.1.2.1.35.98,High-capacity counter for inbound traffic,Loopback,Up,Down,427959317,5595195,229,515
+ifMetric_763e83e2,1.3.6.1.2.1.52.17,High-capacity counter for inbound traffic,WiFi,Up,Unknown,810025796,394585291,353,948
+ifMetric_7610d04f,1.3.6.1.2.1.94.94,Counter for outbound errors,Loopback,Testing,Unknown,323849096,844864305,352,54
+ifMetric_05e4e50f,1.3.6.1.2.1.66.91,Administrative status of interface,ATM,Up,Down,878782274,129401461,928,206
+ifMetric_58ec998d,1.3.6.1.2.1.32.98,Counter for outbound errors,WiFi,Up,Unknown,772558871,351544547,548,344
+ifMetric_502e1b25,1.3.6.1.2.1.80.38,High-capacity counter for inbound traffic,PPP,Testing,Down,50417441,491661497,941,941
+ifMetric_6ddc5764,1.3.6.1.2.1.96.82,High-capacity counter for inbound traffic,ATM,Down,Unknown,96581708,486807906,296,983
+ifMetric_5cefe702,1.3.6.1.2.1.54.58,Operational status of interface,Ethernet,Down,Up,809827766,390464759,390,6
+ifMetric_c6cc73ab,1.3.6.1.2.1.73.2,Inbound traffic errors,Loopback,Up,Unknown,418453636,920950599,499,153
+ifMetric_5d427564,1.3.6.1.2.1.30.2,High-capacity counter for inbound traffic,PPP,Testing,Down,695201518,696235421,832,905
+ifMetric_7ba51d51,1.3.6.1.2.1.20.33,High-capacity counter for inbound traffic,Loopback,Testing,Down,94321260,664339596,191,80
+ifMetric_24358aeb,1.3.6.1.2.1.98.27,Inbound traffic errors,PPP,Down,Unknown,486050284,516794274,894,156
+ifMetric_7c61d0ce,1.3.6.1.2.1.4.20,Inbound traffic errors,Loopback,Down,Unknown,80912888,29237091,413,334
+ifMetric_84425496,1.3.6.1.2.1.80.12,Counter for outbound errors,PPP,Down,Unknown,822367472,884284728,343,960
+ifMetric_e7f2ae33,1.3.6.1.2.1.46.90,Counter for outbound errors,ATM,Down,Unknown,918255831,581087775,340,821
+ifMetric_030523be,1.3.6.1.2.1.90.8,Administrative status of interface,PPP,Up,Unknown,481919078,756266620,656,222
+ifMetric_c51b8c59,1.3.6.1.2.1.38.84,High-capacity counter for inbound traffic,ATM,Down,Down,480714874,894703583,668,130
+ifMetric_3e83e77f,1.3.6.1.2.1.55.47,MAC address of interface,ATM,Up,Up,402816524,488411548,912,44
+ifMetric_ab0d9202,1.3.6.1.2.1.17.72,MAC address of interface,Loopback,Testing,Up,678256605,893422720,726,764
+ifMetric_637a0d20,1.3.6.1.2.1.51.83,Operational status of interface,WiFi,Down,Up,889916238,55035914,588,308
+ifMetric_f83b2e23,1.3.6.1.2.1.78.16,High-capacity counter for inbound traffic,PPP,Up,Unknown,936099485,630070793,907,937
+ifMetric_532090b3,1.3.6.1.2.1.14.57,Inbound traffic errors,ATM,Up,Unknown,37892996,578388391,167,688
+ifMetric_c91bfbf9,1.3.6.1.2.1.67.100,Inbound traffic errors,Loopback,Up,Up,150981651,659560087,238,446
+ifMetric_b24030d9,1.3.6.1.2.1.51.11,Administrative status of interface,Loopback,Down,Down,15514042,4339600,689,563
+ifMetric_0f5b0dd7,1.3.6.1.2.1.32.16,Inbound traffic errors,Ethernet,Up,Up,597453284,157001769,647,376
+ifMetric_0a4f1567,1.3.6.1.2.1.74.12,MAC address of interface,Loopback,Up,Up,865498565,174154158,189,385
+ifMetric_f16d0d84,1.3.6.1.2.1.36.25,Counter for outbound errors,Loopback,Up,Down,685758688,435985690,518,658
+ifMetric_0ad0a70c,1.3.6.1.2.1.36.21,Operational status of interface,WiFi,Testing,Unknown,172134726,884130328,161,992
+ifMetric_716e6ea5,1.3.6.1.2.1.84.48,Counter for outbound errors,ATM,Down,Down,691165642,615014110,292,41
+ifMetric_f0a4c0fd,1.3.6.1.2.1.55.57,Counter for outbound errors,PPP,Down,Down,778097031,457204706,312,470
+ifMetric_3792b678,1.3.6.1.2.1.54.91,High-capacity counter for inbound traffic,Ethernet,Testing,Unknown,648899329,281034354,11,603
+ifMetric_abc81101,1.3.6.1.2.1.11.55,Administrative status of interface,Loopback,Testing,Unknown,297212217,177057023,713,657
+ifMetric_20ea842f,1.3.6.1.2.1.79.52,Administrative status of interface,Loopback,Down,Down,731853024,922636255,863,692
+ifMetric_bbeaa486,1.3.6.1.2.1.9.98,Counter for outbound errors,ATM,Up,Unknown,511133044,729741904,334,498
+ifMetric_a6b49d33,1.3.6.1.2.1.67.45,Counter for outbound errors,Ethernet,Down,Unknown,108924068,619547303,582,753
+ifMetric_f0c40019,1.3.6.1.2.1.86.66,Operational status of interface,WiFi,Testing,Down,700064022,200234990,309,339
+ifMetric_4e9ec140,1.3.6.1.2.1.47.80,Administrative status of interface,Loopback,Testing,Unknown,191845629,903136224,290,894
+ifMetric_4c04d915,1.3.6.1.2.1.15.24,Administrative status of interface,Loopback,Down,Up,593702343,435451705,586,319
+ifMetric_fb214ee4,1.3.6.1.2.1.46.94,High-capacity counter for inbound traffic,PPP,Down,Up,104877273,767685718,715,544
+ifMetric_9588eed8,1.3.6.1.2.1.53.48,Inbound traffic errors,PPP,Testing,Up,87851223,184674082,876,949
+ifMetric_93cf1758,1.3.6.1.2.1.99.3,Inbound traffic errors,WiFi,Testing,Unknown,961710884,338366845,117,513
+ifMetric_7e387607,1.3.6.1.2.1.78.10,MAC address of interface,Loopback,Testing,Down,323163400,243312292,274,262
+ifMetric_e5139f57,1.3.6.1.2.1.71.100,Counter for outbound errors,Ethernet,Testing,Up,922155025,914067557,453,156
+ifMetric_548e2cbd,1.3.6.1.2.1.65.47,Counter for outbound errors,PPP,Down,Unknown,233049739,644572900,394,589
+ifMetric_35709d4c,1.3.6.1.2.1.53.70,MAC address of interface,ATM,Testing,Unknown,700030405,208405917,247,308
+ifMetric_ee1b7840,1.3.6.1.2.1.32.89,Counter for outbound errors,ATM,Down,Unknown,60339935,3643088,531,286
+ifMetric_6c6c6e04,1.3.6.1.2.1.44.20,Counter for outbound errors,ATM,Testing,Unknown,319160619,399167954,771,65
+ifMetric_8993131c,1.3.6.1.2.1.29.24,Administrative status of interface,Ethernet,Testing,Unknown,774570284,632269568,909,332
+ifMetric_51550255,1.3.6.1.2.1.62.10,Operational status of interface,WiFi,Testing,Unknown,644532969,864547785,183,879
+ifMetric_464605dc,1.3.6.1.2.1.16.16,MAC address of interface,Loopback,Up,Unknown,375764035,565062895,763,722
+ifMetric_5b5f5067,1.3.6.1.2.1.17.89,Counter for outbound errors,Ethernet,Testing,Down,94285856,887981699,329,225
+ifMetric_7a1e6bca,1.3.6.1.2.1.33.45,High-capacity counter for inbound traffic,Loopback,Up,Up,527359906,931183157,157,403
+ifMetric_b76fe778,1.3.6.1.2.1.98.65,Operational status of interface,Loopback,Down,Down,15859248,544901294,61,893
+ifMetric_a003465a,1.3.6.1.2.1.25.65,Administrative status of interface,PPP,Up,Up,471163274,993258646,906,89
+ifMetric_774b217d,1.3.6.1.2.1.10.53,Inbound traffic errors,Ethernet,Up,Up,859237688,85608682,377,881
+ifMetric_e21cf0ef,1.3.6.1.2.1.10.33,Inbound traffic errors,PPP,Testing,Up,548876451,668828034,139,590
+ifMetric_0cf20697,1.3.6.1.2.1.44.44,High-capacity counter for inbound traffic,Ethernet,Up,Unknown,601158784,156762388,93,49
+ifMetric_1fa6ed78,1.3.6.1.2.1.6.64,Counter for outbound errors,WiFi,Up,Down,326510991,682605122,408,615
+ifMetric_91fd48fb,1.3.6.1.2.1.35.92,Operational status of interface,Loopback,Up,Up,539202654,609306779,919,117
+ifMetric_98ba1189,1.3.6.1.2.1.71.6,Operational status of interface,ATM,Testing,Down,529725521,838040959,206,733
+ifMetric_c437cf20,1.3.6.1.2.1.42.23,Administrative status of interface,Loopback,Testing,Down,128413244,177072692,481,685
+ifMetric_813a6574,1.3.6.1.2.1.17.99,High-capacity counter for inbound traffic,Ethernet,Up,Unknown,890819480,83222718,777,560
+ifMetric_cee0865b,1.3.6.1.2.1.44.93,Inbound traffic errors,ATM,Up,Up,212842174,911849669,396,287
+ifMetric_1ae14f77,1.3.6.1.2.1.68.52,High-capacity counter for inbound traffic,Loopback,Up,Unknown,840382696,510913407,606,328
+ifMetric_c52e3d85,1.3.6.1.2.1.93.31,Inbound traffic errors,Ethernet,Testing,Unknown,384855555,242993240,305,700
+ifMetric_b9559b82,1.3.6.1.2.1.43.84,Operational status of interface,ATM,Testing,Up,831565311,290714090,662,647
+ifMetric_da501126,1.3.6.1.2.1.84.60,Operational status of interface,Loopback,Testing,Up,410598996,816534069,665,114
+ifMetric_dca49d08,1.3.6.1.2.1.54.10,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,382620706,904636224,724,472
+ifMetric_67924418,1.3.6.1.2.1.58.16,Operational status of interface,Ethernet,Down,Unknown,527971265,646653244,807,656
+ifMetric_903828aa,1.3.6.1.2.1.5.84,Administrative status of interface,WiFi,Testing,Down,112869100,991034931,494,80
+ifMetric_2a74d15d,1.3.6.1.2.1.39.39,Administrative status of interface,ATM,Down,Down,181964765,278295752,868,688
+ifMetric_f751b922,1.3.6.1.2.1.17.11,Operational status of interface,WiFi,Up,Up,306671520,655455605,848,797
+ifMetric_9d754636,1.3.6.1.2.1.19.98,MAC address of interface,WiFi,Down,Up,925362035,916388988,442,829
+ifMetric_83792460,1.3.6.1.2.1.14.70,Inbound traffic errors,ATM,Up,Up,14865631,44325312,715,879
+ifMetric_cd239571,1.3.6.1.2.1.70.30,MAC address of interface,ATM,Testing,Down,656674129,892072941,629,457
+ifMetric_59c11cbd,1.3.6.1.2.1.63.35,Counter for outbound errors,Loopback,Up,Up,697673389,868698724,389,154
+ifMetric_94224c01,1.3.6.1.2.1.39.55,Administrative status of interface,WiFi,Testing,Up,55353577,80502027,785,563
+ifMetric_a34db0df,1.3.6.1.2.1.4.40,Operational status of interface,WiFi,Testing,Unknown,297218200,793285930,560,134
+ifMetric_33251b87,1.3.6.1.2.1.55.64,Administrative status of interface,Ethernet,Down,Up,360237565,567146610,387,820
+ifMetric_04228e21,1.3.6.1.2.1.49.61,High-capacity counter for inbound traffic,Ethernet,Up,Down,964003616,386924933,857,318
+ifMetric_790f6b40,1.3.6.1.2.1.2.25,Administrative status of interface,Loopback,Testing,Unknown,346181870,917798401,888,908
+ifMetric_58d90f8b,1.3.6.1.2.1.60.20,High-capacity counter for inbound traffic,ATM,Testing,Up,746374512,375227943,840,935
+ifMetric_05ea6dec,1.3.6.1.2.1.5.65,High-capacity counter for inbound traffic,WiFi,Up,Unknown,472398164,568589314,39,226
+ifMetric_c5851097,1.3.6.1.2.1.64.98,Operational status of interface,Loopback,Down,Up,871918545,219246353,752,801
+ifMetric_925fe1ef,1.3.6.1.2.1.8.63,Inbound traffic errors,Ethernet,Up,Down,924277081,722609712,117,74
+ifMetric_9592ffb4,1.3.6.1.2.1.13.19,High-capacity counter for inbound traffic,WiFi,Testing,Down,488413498,684395567,68,15
+ifMetric_6e4e9ad7,1.3.6.1.2.1.35.46,Counter for outbound errors,Ethernet,Up,Up,728971142,299251980,925,570
+ifMetric_8984f706,1.3.6.1.2.1.65.26,Inbound traffic errors,PPP,Down,Up,458785139,533699316,705,661
+ifMetric_d1486ca6,1.3.6.1.2.1.27.93,Counter for outbound errors,Loopback,Down,Unknown,337095897,504199475,572,331
+ifMetric_5f253d4f,1.3.6.1.2.1.69.74,Administrative status of interface,WiFi,Testing,Down,5641407,916355303,226,930
+ifMetric_851cbd6f,1.3.6.1.2.1.29.93,High-capacity counter for inbound traffic,PPP,Up,Up,998551047,427292236,839,127
+ifMetric_5af30af7,1.3.6.1.2.1.48.21,MAC address of interface,PPP,Down,Down,468602679,40762423,791,723
+ifMetric_b024774b,1.3.6.1.2.1.23.72,MAC address of interface,ATM,Up,Down,166002108,581583765,671,461
+ifMetric_b8c79a9c,1.3.6.1.2.1.83.8,MAC address of interface,Loopback,Testing,Down,566462800,937493296,495,620
+ifMetric_153632b9,1.3.6.1.2.1.22.39,Counter for outbound errors,Ethernet,Up,Up,647919703,753279660,264,145
+ifMetric_9f46b1c1,1.3.6.1.2.1.19.88,Administrative status of interface,Loopback,Up,Up,99400228,296946190,359,224
+ifMetric_ddcf1d14,1.3.6.1.2.1.59.72,Inbound traffic errors,PPP,Down,Down,114526927,139017742,97,983
+ifMetric_011a8fef,1.3.6.1.2.1.17.25,MAC address of interface,WiFi,Testing,Unknown,643756765,473802574,373,867
+ifMetric_a218c44d,1.3.6.1.2.1.48.45,Administrative status of interface,ATM,Up,Unknown,723518559,458363570,75,458
+ifMetric_d2b3888c,1.3.6.1.2.1.20.37,MAC address of interface,Loopback,Down,Down,782674188,186976962,397,222
+ifMetric_7383272c,1.3.6.1.2.1.74.88,High-capacity counter for inbound traffic,PPP,Testing,Unknown,866015761,443795138,4,55
+ifMetric_bbc6c12d,1.3.6.1.2.1.22.52,Administrative status of interface,PPP,Testing,Down,882057850,493625544,595,259
+ifMetric_7630281a,1.3.6.1.2.1.97.54,Operational status of interface,WiFi,Down,Unknown,648282275,975133876,574,350
+ifMetric_bbe80112,1.3.6.1.2.1.2.22,High-capacity counter for inbound traffic,Loopback,Testing,Down,550934576,876755881,651,61
+ifMetric_dc73d028,1.3.6.1.2.1.29.78,Operational status of interface,WiFi,Down,Up,978357781,609867430,980,940
+ifMetric_658b7ee1,1.3.6.1.2.1.49.96,Inbound traffic errors,PPP,Down,Up,626776915,445968835,592,200
+ifMetric_5735ffd2,1.3.6.1.2.1.61.3,Inbound traffic errors,WiFi,Down,Down,241414836,442481440,269,753
+ifMetric_48e9d172,1.3.6.1.2.1.42.14,Operational status of interface,PPP,Down,Up,817636329,588624789,427,523
+ifMetric_d3330d68,1.3.6.1.2.1.1.70,Administrative status of interface,WiFi,Up,Up,201911541,608253272,124,490
+ifMetric_cbb06283,1.3.6.1.2.1.51.59,Operational status of interface,WiFi,Testing,Unknown,465476724,361508051,768,962
+ifMetric_cbc9e2ed,1.3.6.1.2.1.6.70,MAC address of interface,PPP,Up,Up,788574106,411940005,966,786
+ifMetric_af4f7619,1.3.6.1.2.1.43.48,Administrative status of interface,PPP,Up,Unknown,333839,274079299,181,50
+ifMetric_02b7e7a7,1.3.6.1.2.1.30.87,Inbound traffic errors,Loopback,Down,Down,418261754,567154717,271,72
+ifMetric_a2983b91,1.3.6.1.2.1.40.36,High-capacity counter for inbound traffic,WiFi,Down,Down,848641067,866565811,393,35
+ifMetric_66e6ae05,1.3.6.1.2.1.69.83,Inbound traffic errors,PPP,Up,Unknown,687043631,316686889,283,929
+ifMetric_62cfe11b,1.3.6.1.2.1.59.34,Operational status of interface,PPP,Testing,Unknown,65988819,428935220,928,303
+ifMetric_a2cd94b9,1.3.6.1.2.1.50.10,Administrative status of interface,Loopback,Testing,Unknown,544742373,529246133,116,395
+ifMetric_83aa2c4c,1.3.6.1.2.1.31.16,High-capacity counter for inbound traffic,WiFi,Up,Down,57024455,222518966,700,928
+ifMetric_346f9b31,1.3.6.1.2.1.64.73,Administrative status of interface,Ethernet,Testing,Down,516927018,419787746,46,44
+ifMetric_f2387b93,1.3.6.1.2.1.49.60,Operational status of interface,WiFi,Down,Up,214934999,899272673,13,117
+ifMetric_302957e4,1.3.6.1.2.1.87.3,High-capacity counter for inbound traffic,Ethernet,Testing,Up,192186346,281713642,880,894
+ifMetric_32b2f690,1.3.6.1.2.1.76.75,Administrative status of interface,Ethernet,Up,Unknown,765306544,244636674,405,795
+ifMetric_57494b83,1.3.6.1.2.1.88.43,High-capacity counter for inbound traffic,Ethernet,Down,Unknown,834592190,407189105,454,333
+ifMetric_5b2e107d,1.3.6.1.2.1.95.82,MAC address of interface,Loopback,Up,Unknown,347225725,30050281,145,664
+ifMetric_cf5d57d1,1.3.6.1.2.1.64.48,Counter for outbound errors,ATM,Testing,Down,550195790,269267952,203,231
+ifMetric_91928644,1.3.6.1.2.1.50.69,Administrative status of interface,WiFi,Down,Down,503408072,937732290,916,840
+ifMetric_9d543e49,1.3.6.1.2.1.64.11,High-capacity counter for inbound traffic,Loopback,Down,Unknown,777705622,517288212,934,473
+ifMetric_736b9fd8,1.3.6.1.2.1.80.30,Operational status of interface,Ethernet,Down,Unknown,275627860,91405522,506,475
+ifMetric_6d9c8779,1.3.6.1.2.1.10.5,Counter for outbound errors,ATM,Testing,Unknown,311102528,776737551,957,610
+ifMetric_1cf966c5,1.3.6.1.2.1.14.90,Operational status of interface,ATM,Down,Up,280657609,654287628,584,724
+ifMetric_b51b73e1,1.3.6.1.2.1.62.70,Operational status of interface,ATM,Up,Down,906541980,965720231,955,108
+ifMetric_c9ef976f,1.3.6.1.2.1.46.21,Counter for outbound errors,ATM,Testing,Unknown,424766453,316609447,198,590
+ifMetric_d61ce9c4,1.3.6.1.2.1.54.87,Counter for outbound errors,PPP,Testing,Up,826282141,28832990,459,681
+ifMetric_a4b957dc,1.3.6.1.2.1.37.50,Inbound traffic errors,WiFi,Testing,Up,603923742,523422164,171,106
+ifMetric_69cc82b5,1.3.6.1.2.1.17.62,Administrative status of interface,WiFi,Testing,Unknown,835647548,809342126,74,752
+ifMetric_a19c262b,1.3.6.1.2.1.11.7,Administrative status of interface,Ethernet,Down,Down,63323990,373710945,514,52
+ifMetric_8408a592,1.3.6.1.2.1.1.11,MAC address of interface,Loopback,Down,Up,664479649,176742121,47,883
+ifMetric_1e16f026,1.3.6.1.2.1.44.89,Inbound traffic errors,ATM,Testing,Down,899856343,840134921,884,479
+ifMetric_83e4e997,1.3.6.1.2.1.48.44,Inbound traffic errors,Loopback,Down,Down,21006547,615250706,640,381
+ifMetric_aa0c8d2c,1.3.6.1.2.1.20.94,MAC address of interface,WiFi,Testing,Up,454589752,862248461,494,992
+ifMetric_53a286f7,1.3.6.1.2.1.60.99,High-capacity counter for inbound traffic,Loopback,Testing,Down,365416131,286612971,611,499
+ifMetric_0012a0f3,1.3.6.1.2.1.81.69,Counter for outbound errors,Loopback,Down,Down,917484468,40297086,449,407
+ifMetric_34997eb6,1.3.6.1.2.1.98.32,Operational status of interface,Loopback,Down,Up,528118195,173391967,190,633
+ifMetric_910b2f4f,1.3.6.1.2.1.1.54,Inbound traffic errors,WiFi,Down,Up,241189926,750059007,231,313
+ifMetric_2857618a,1.3.6.1.2.1.74.86,Counter for outbound errors,PPP,Testing,Up,293693008,55864586,288,880
+ifMetric_fec84480,1.3.6.1.2.1.90.36,Administrative status of interface,Loopback,Up,Unknown,564917922,843350270,452,190
+ifMetric_8676f787,1.3.6.1.2.1.44.41,Operational status of interface,Ethernet,Up,Up,201022151,388929452,800,607
+ifMetric_6a74b528,1.3.6.1.2.1.19.77,MAC address of interface,Loopback,Up,Down,72358916,746511050,363,934
+ifMetric_d07c8930,1.3.6.1.2.1.39.11,Administrative status of interface,WiFi,Down,Unknown,922424978,878838303,678,595
+ifMetric_7613114a,1.3.6.1.2.1.25.44,High-capacity counter for inbound traffic,Loopback,Up,Unknown,271117001,233093854,509,468
+ifMetric_990131f7,1.3.6.1.2.1.27.51,Operational status of interface,Ethernet,Testing,Up,905564941,832925846,38,409
+ifMetric_e9a05920,1.3.6.1.2.1.49.9,Administrative status of interface,ATM,Testing,Up,996497878,240733497,508,242
+ifMetric_56cd411e,1.3.6.1.2.1.40.60,MAC address of interface,WiFi,Down,Unknown,738999194,718843885,216,135
+ifMetric_b8f7dc32,1.3.6.1.2.1.10.82,Counter for outbound errors,ATM,Testing,Down,143574093,843337522,475,544
+ifMetric_0d4872cd,1.3.6.1.2.1.24.5,Administrative status of interface,ATM,Up,Down,456847314,364503142,461,965
+ifMetric_e6fbe2b8,1.3.6.1.2.1.9.21,Administrative status of interface,Ethernet,Down,Up,711853541,221133474,922,264
+ifMetric_2722e2b4,1.3.6.1.2.1.34.73,High-capacity counter for inbound traffic,Loopback,Down,Down,205380467,309067033,36,874
+ifMetric_1ff70087,1.3.6.1.2.1.87.21,MAC address of interface,PPP,Testing,Up,800031222,556221125,797,802
+ifMetric_4fe45fd0,1.3.6.1.2.1.1.52,High-capacity counter for inbound traffic,Ethernet,Down,Down,102260741,78052454,874,188
+ifMetric_a036ba54,1.3.6.1.2.1.19.39,Inbound traffic errors,Ethernet,Down,Down,122563220,445357349,709,544
+ifMetric_de7dfdca,1.3.6.1.2.1.35.27,Administrative status of interface,WiFi,Testing,Unknown,522713552,362203145,319,222
+ifMetric_594c7c3f,1.3.6.1.2.1.84.17,Inbound traffic errors,Ethernet,Up,Down,209764136,578478028,291,9
+ifMetric_1ac6b40c,1.3.6.1.2.1.35.2,MAC address of interface,ATM,Down,Down,925241012,19192887,915,489
+ifMetric_55327028,1.3.6.1.2.1.35.11,Operational status of interface,ATM,Testing,Unknown,718976748,132486389,958,352
+ifMetric_33e92f81,1.3.6.1.2.1.94.49,Operational status of interface,Loopback,Down,Unknown,593712785,229442970,612,969
+ifMetric_a0154d47,1.3.6.1.2.1.58.27,Inbound traffic errors,ATM,Up,Up,727046460,695479471,103,991
+ifMetric_3793a98d,1.3.6.1.2.1.53.2,MAC address of interface,ATM,Up,Up,908267404,142373135,200,554
+ifMetric_46241154,1.3.6.1.2.1.20.92,Inbound traffic errors,PPP,Testing,Up,570621810,845134197,444,707
+ifMetric_9aac34e6,1.3.6.1.2.1.76.87,High-capacity counter for inbound traffic,PPP,Up,Up,798817375,417852529,183,837
+ifMetric_a622dd98,1.3.6.1.2.1.22.94,High-capacity counter for inbound traffic,Loopback,Up,Unknown,935508003,918419523,796,587
+ifMetric_dc147aa0,1.3.6.1.2.1.15.82,Counter for outbound errors,Loopback,Testing,Up,328418514,417367284,181,500
+ifMetric_4c0260bb,1.3.6.1.2.1.19.1,Counter for outbound errors,Loopback,Testing,Down,587773121,970180876,947,541
+ifMetric_ce9cb70c,1.3.6.1.2.1.99.30,MAC address of interface,Loopback,Down,Up,462697579,549888833,672,917
+ifMetric_227d284c,1.3.6.1.2.1.47.43,MAC address of interface,ATM,Down,Down,160736723,567369563,977,934
+ifMetric_f4b3bba5,1.3.6.1.2.1.60.37,MAC address of interface,Ethernet,Up,Up,162151829,119347228,251,829
+ifMetric_dc090d21,1.3.6.1.2.1.17.70,Inbound traffic errors,Loopback,Up,Down,267022148,600577273,942,152
+ifMetric_4128d75f,1.3.6.1.2.1.32.94,Operational status of interface,Ethernet,Down,Down,593569743,11068814,733,153
+ifMetric_82209696,1.3.6.1.2.1.48.40,MAC address of interface,Loopback,Up,Unknown,193076508,305248536,712,26
+ifMetric_4a5b7a15,1.3.6.1.2.1.86.18,MAC address of interface,Loopback,Testing,Unknown,55842455,770062876,369,266
+ifMetric_74eb4e7e,1.3.6.1.2.1.13.96,MAC address of interface,PPP,Up,Up,374199411,774737163,73,792
+ifMetric_97aeec71,1.3.6.1.2.1.62.16,Administrative status of interface,Loopback,Up,Up,475162499,64183072,786,945
+ifMetric_cad4f924,1.3.6.1.2.1.48.39,Counter for outbound errors,Ethernet,Down,Unknown,223719845,509163683,296,677
+ifMetric_b25cd8e5,1.3.6.1.2.1.18.63,Operational status of interface,Ethernet,Down,Down,119588445,835889894,81,747
+ifMetric_7c331a45,1.3.6.1.2.1.55.88,Administrative status of interface,Ethernet,Testing,Up,951155585,40814759,935,68
+ifMetric_02ceabd2,1.3.6.1.2.1.58.35,Administrative status of interface,WiFi,Testing,Up,925053665,66874731,714,544
+ifMetric_9f78a227,1.3.6.1.2.1.56.24,Counter for outbound errors,Ethernet,Testing,Up,899787192,928819657,345,745
+ifMetric_d4be4d16,1.3.6.1.2.1.94.47,Inbound traffic errors,WiFi,Up,Down,449753446,283338467,415,730
+ifMetric_a26ca79f,1.3.6.1.2.1.54.44,Counter for outbound errors,PPP,Down,Unknown,412498358,165328746,458,214
+ifMetric_fd032e27,1.3.6.1.2.1.62.71,High-capacity counter for inbound traffic,Ethernet,Down,Up,627299630,621686652,272,682
+ifMetric_0e0cfb5a,1.3.6.1.2.1.34.42,High-capacity counter for inbound traffic,ATM,Testing,Unknown,601859105,167792131,181,938
+ifMetric_797ea3f2,1.3.6.1.2.1.8.12,Operational status of interface,Ethernet,Down,Up,372269805,62421255,18,270
+ifMetric_30e3dfa6,1.3.6.1.2.1.62.31,Administrative status of interface,ATM,Down,Unknown,841512773,905101608,112,498
+ifMetric_d947dd4f,1.3.6.1.2.1.94.27,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,559865306,414056335,512,759
+ifMetric_acf7c406,1.3.6.1.2.1.55.54,MAC address of interface,PPP,Down,Unknown,593530952,40837197,47,501
+ifMetric_0454189d,1.3.6.1.2.1.9.23,Administrative status of interface,PPP,Down,Down,355077524,721904512,950,851
+ifMetric_8161c1e4,1.3.6.1.2.1.12.79,Counter for outbound errors,PPP,Down,Down,162998738,508702258,253,975
+ifMetric_b75c13a8,1.3.6.1.2.1.98.1,High-capacity counter for inbound traffic,Ethernet,Down,Up,401702752,531720491,540,240
+ifMetric_9617cfb0,1.3.6.1.2.1.67.91,MAC address of interface,ATM,Down,Up,298373413,836730012,709,375
+ifMetric_8145b0a1,1.3.6.1.2.1.1.30,MAC address of interface,ATM,Up,Up,980155456,217175072,63,369
+ifMetric_88fd020e,1.3.6.1.2.1.45.39,Counter for outbound errors,WiFi,Down,Up,688167105,887215110,251,433
+ifMetric_2a05fb0b,1.3.6.1.2.1.54.12,Operational status of interface,Loopback,Up,Unknown,176372785,464783689,116,201
+ifMetric_b58830db,1.3.6.1.2.1.20.73,Administrative status of interface,Loopback,Up,Up,65223494,500911893,125,399
+ifMetric_8e8f321e,1.3.6.1.2.1.57.25,Counter for outbound errors,ATM,Up,Unknown,636001348,180343050,86,499
+ifMetric_05d2c918,1.3.6.1.2.1.92.57,MAC address of interface,ATM,Down,Down,321268072,309215414,355,379
+ifMetric_a5857809,1.3.6.1.2.1.36.52,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,683523497,544506107,554,368
+ifMetric_29f78363,1.3.6.1.2.1.13.51,Counter for outbound errors,Loopback,Testing,Down,514794347,24843288,644,981
+ifMetric_8a00a5ba,1.3.6.1.2.1.32.61,Operational status of interface,Ethernet,Down,Up,213888097,291260331,752,391
+ifMetric_39c87040,1.3.6.1.2.1.86.19,High-capacity counter for inbound traffic,ATM,Up,Unknown,362936004,963382889,375,420
+ifMetric_7c9cb8d1,1.3.6.1.2.1.21.11,MAC address of interface,PPP,Up,Up,764908771,562567618,610,33
+ifMetric_64d40a8c,1.3.6.1.2.1.25.78,High-capacity counter for inbound traffic,Ethernet,Down,Up,391524195,925166487,729,591
+ifMetric_a9707784,1.3.6.1.2.1.99.98,Administrative status of interface,Loopback,Up,Down,121368469,142973578,282,624
+ifMetric_dab70147,1.3.6.1.2.1.61.71,Inbound traffic errors,Ethernet,Testing,Down,195113026,442040162,628,205
+ifMetric_11d0b825,1.3.6.1.2.1.4.78,MAC address of interface,Ethernet,Down,Unknown,894483727,387019304,143,713
+ifMetric_c2eb6609,1.3.6.1.2.1.6.24,Counter for outbound errors,WiFi,Up,Up,478700621,151471561,802,581
+ifMetric_6fea5280,1.3.6.1.2.1.42.74,Administrative status of interface,PPP,Down,Unknown,468809941,834308640,591,335
+ifMetric_de18070a,1.3.6.1.2.1.86.52,Operational status of interface,ATM,Down,Down,236501700,207255798,862,668
+ifMetric_94682b57,1.3.6.1.2.1.42.95,Administrative status of interface,Ethernet,Down,Unknown,689164970,758978940,421,682
+ifMetric_bfde387d,1.3.6.1.2.1.57.95,MAC address of interface,WiFi,Testing,Up,667302957,367274130,440,226
+ifMetric_d92d2bc5,1.3.6.1.2.1.87.66,Counter for outbound errors,Ethernet,Testing,Unknown,630206435,653817584,276,641
+ifMetric_84915018,1.3.6.1.2.1.6.59,High-capacity counter for inbound traffic,Loopback,Up,Down,981667728,125651362,880,171
+ifMetric_270f98fa,1.3.6.1.2.1.100.64,MAC address of interface,PPP,Down,Down,972137999,298860127,328,348
+ifMetric_d2dda1aa,1.3.6.1.2.1.33.28,Operational status of interface,PPP,Testing,Unknown,295877823,911913579,719,327
+ifMetric_7d250abd,1.3.6.1.2.1.71.51,Administrative status of interface,Loopback,Testing,Down,579046416,686491442,97,689
+ifMetric_a4338a80,1.3.6.1.2.1.60.2,Counter for outbound errors,ATM,Up,Up,399600444,661155911,147,840
+ifMetric_75ae340b,1.3.6.1.2.1.86.29,Counter for outbound errors,Loopback,Testing,Unknown,452124484,147180557,44,107
+ifMetric_5eb1636d,1.3.6.1.2.1.21.38,Administrative status of interface,Loopback,Up,Unknown,965357438,23189137,563,551
+ifMetric_b96f3f21,1.3.6.1.2.1.88.62,MAC address of interface,WiFi,Down,Unknown,442535201,355540007,448,618
+ifMetric_f33a08ac,1.3.6.1.2.1.60.1,Counter for outbound errors,WiFi,Down,Down,637330977,797155422,887,223
+ifMetric_a0918f6a,1.3.6.1.2.1.56.22,Inbound traffic errors,Loopback,Down,Down,82610376,937888911,385,235
+ifMetric_4a0d6d2b,1.3.6.1.2.1.28.94,Counter for outbound errors,Ethernet,Up,Up,885847378,516089405,882,726
+ifMetric_447a9225,1.3.6.1.2.1.76.67,Inbound traffic errors,Loopback,Testing,Down,24944218,322982692,522,999
+ifMetric_0ca62dec,1.3.6.1.2.1.64.93,MAC address of interface,Ethernet,Up,Down,122929619,254447672,392,803
+ifMetric_c794758e,1.3.6.1.2.1.8.58,Administrative status of interface,PPP,Testing,Up,426761671,709268241,50,877
+ifMetric_22b47980,1.3.6.1.2.1.19.90,Operational status of interface,PPP,Up,Down,936708045,875637710,893,502
+ifMetric_78fcbdc5,1.3.6.1.2.1.20.46,Operational status of interface,ATM,Up,Unknown,385382212,611175199,200,527
+ifMetric_3eaa3f7f,1.3.6.1.2.1.74.94,Inbound traffic errors,Ethernet,Testing,Up,995494928,895601684,995,263
+ifMetric_c631eda5,1.3.6.1.2.1.43.35,High-capacity counter for inbound traffic,PPP,Down,Down,484674301,544988137,123,634
+ifMetric_bcc8551e,1.3.6.1.2.1.59.36,Counter for outbound errors,PPP,Up,Unknown,861927195,625254222,963,855
+ifMetric_68e576be,1.3.6.1.2.1.43.64,Counter for outbound errors,PPP,Down,Up,911602013,540528093,20,542
+ifMetric_8e245dd2,1.3.6.1.2.1.56.86,MAC address of interface,ATM,Down,Up,20022989,881077943,412,306
+ifMetric_58c9b90d,1.3.6.1.2.1.32.24,Inbound traffic errors,Ethernet,Up,Up,250836882,75630331,830,786
+ifMetric_c96f0825,1.3.6.1.2.1.58.77,Operational status of interface,Ethernet,Up,Unknown,420518155,643954243,62,903
+ifMetric_fbecd312,1.3.6.1.2.1.64.48,Administrative status of interface,WiFi,Down,Down,395722897,413033565,975,630
+ifMetric_8e9b26c2,1.3.6.1.2.1.33.86,Administrative status of interface,PPP,Up,Up,807517075,134825305,105,979
+ifMetric_8754040f,1.3.6.1.2.1.18.100,Administrative status of interface,PPP,Testing,Up,191972871,144112731,401,886
+ifMetric_2a193176,1.3.6.1.2.1.20.23,High-capacity counter for inbound traffic,PPP,Down,Down,167336336,722047897,203,894
+ifMetric_bbe98c23,1.3.6.1.2.1.74.38,MAC address of interface,WiFi,Testing,Unknown,566894263,176722122,890,45
+ifMetric_5f3816ab,1.3.6.1.2.1.28.37,High-capacity counter for inbound traffic,WiFi,Down,Up,520977452,217945596,127,319
+ifMetric_8099f53c,1.3.6.1.2.1.77.9,Inbound traffic errors,PPP,Testing,Unknown,938212437,814805213,409,345
+ifMetric_9afd986e,1.3.6.1.2.1.78.59,Counter for outbound errors,ATM,Down,Up,949593611,83931534,727,53
+ifMetric_70335754,1.3.6.1.2.1.59.7,Operational status of interface,WiFi,Up,Up,124747093,742443251,933,132
+ifMetric_719f5a26,1.3.6.1.2.1.86.29,Counter for outbound errors,ATM,Testing,Unknown,99270273,486853961,899,550
+ifMetric_b393049b,1.3.6.1.2.1.47.21,Operational status of interface,PPP,Up,Down,620246178,544796814,926,842
+ifMetric_7d55b925,1.3.6.1.2.1.29.66,Administrative status of interface,Loopback,Down,Up,117994493,764984450,425,445
+ifMetric_e945f3c1,1.3.6.1.2.1.60.42,Counter for outbound errors,PPP,Up,Down,235982538,927956627,537,57
+ifMetric_0c073d21,1.3.6.1.2.1.23.27,MAC address of interface,ATM,Down,Up,390915945,946569829,390,644
+ifMetric_ed7d42fc,1.3.6.1.2.1.21.99,Counter for outbound errors,ATM,Down,Up,661618272,921234162,1,621
+ifMetric_f4470613,1.3.6.1.2.1.92.75,Administrative status of interface,Ethernet,Down,Up,705575439,366191546,396,525
+ifMetric_86d06789,1.3.6.1.2.1.100.9,Counter for outbound errors,PPP,Down,Up,140436206,166118108,839,905
+ifMetric_3bad381b,1.3.6.1.2.1.69.64,Administrative status of interface,Ethernet,Up,Unknown,170968558,533819271,657,836
+ifMetric_df252683,1.3.6.1.2.1.97.43,Inbound traffic errors,PPP,Down,Unknown,663352313,527857154,924,786
+ifMetric_cd61589e,1.3.6.1.2.1.80.23,MAC address of interface,WiFi,Up,Unknown,357744928,917416930,629,966
+ifMetric_36232d51,1.3.6.1.2.1.61.22,High-capacity counter for inbound traffic,Loopback,Testing,Up,286068584,904482164,509,355
+ifMetric_b0f82202,1.3.6.1.2.1.41.79,MAC address of interface,Loopback,Up,Down,301974872,789249111,320,57
+ifMetric_5cdc36ce,1.3.6.1.2.1.48.90,High-capacity counter for inbound traffic,WiFi,Down,Unknown,356764583,16231029,61,589
+ifMetric_27475b3b,1.3.6.1.2.1.11.2,Inbound traffic errors,PPP,Down,Down,640180257,304218209,857,151
+ifMetric_0c292dae,1.3.6.1.2.1.88.20,Operational status of interface,Ethernet,Down,Down,712681939,244296518,654,475
+ifMetric_759e5eac,1.3.6.1.2.1.78.45,MAC address of interface,Ethernet,Up,Up,615744632,160767828,43,338
+ifMetric_4a0754b6,1.3.6.1.2.1.73.65,Operational status of interface,ATM,Testing,Unknown,291500243,854502030,156,455
+ifMetric_1f64ea05,1.3.6.1.2.1.7.18,Counter for outbound errors,PPP,Testing,Up,580631936,184612380,622,431
+ifMetric_53a6157f,1.3.6.1.2.1.79.86,Inbound traffic errors,Ethernet,Down,Up,254678443,156547831,42,41
+ifMetric_3a6b617c,1.3.6.1.2.1.15.92,High-capacity counter for inbound traffic,WiFi,Testing,Up,175292864,800356885,136,787
+ifMetric_8a08bb5b,1.3.6.1.2.1.37.3,MAC address of interface,WiFi,Down,Down,722603593,482606791,895,625
+ifMetric_a4dd86e4,1.3.6.1.2.1.47.75,Administrative status of interface,ATM,Up,Unknown,247392829,866824654,445,14
+ifMetric_ae1ce4c3,1.3.6.1.2.1.9.100,Administrative status of interface,PPP,Down,Down,87941543,831371924,815,762
+ifMetric_cdff8443,1.3.6.1.2.1.35.67,Operational status of interface,Ethernet,Up,Unknown,218299338,666881093,60,196
+ifMetric_72eb4403,1.3.6.1.2.1.1.43,Counter for outbound errors,Ethernet,Up,Down,219239986,995838707,774,696
+ifMetric_8e5ea742,1.3.6.1.2.1.29.25,High-capacity counter for inbound traffic,PPP,Testing,Unknown,411684772,774133270,880,867
+ifMetric_cb8a15ba,1.3.6.1.2.1.92.97,Inbound traffic errors,PPP,Down,Unknown,243008004,352899405,172,74
+ifMetric_6c3caf14,1.3.6.1.2.1.61.86,Operational status of interface,WiFi,Down,Down,144513824,804875260,929,60
+ifMetric_a775d89b,1.3.6.1.2.1.8.49,Administrative status of interface,PPP,Up,Up,406759810,369516706,30,80
+ifMetric_71093a2a,1.3.6.1.2.1.72.52,Inbound traffic errors,Ethernet,Down,Unknown,850511603,55747669,698,308
+ifMetric_ab66437d,1.3.6.1.2.1.2.19,Counter for outbound errors,Loopback,Testing,Down,563155744,804404201,795,567
+ifMetric_cb2fa9b0,1.3.6.1.2.1.58.93,High-capacity counter for inbound traffic,ATM,Down,Up,465108003,681876123,369,412
+ifMetric_fd0e4d65,1.3.6.1.2.1.45.1,MAC address of interface,WiFi,Testing,Unknown,878941116,971823153,246,49
+ifMetric_b87a4f57,1.3.6.1.2.1.21.33,MAC address of interface,Ethernet,Up,Up,425308405,863275834,680,552
+ifMetric_395bd52f,1.3.6.1.2.1.48.74,Inbound traffic errors,WiFi,Down,Down,90216737,445658698,610,855
+ifMetric_6d6bd668,1.3.6.1.2.1.65.5,Inbound traffic errors,Ethernet,Up,Up,757864991,925894587,255,487
+ifMetric_3707f492,1.3.6.1.2.1.25.80,Inbound traffic errors,Ethernet,Testing,Up,952865502,900886125,120,145
+ifMetric_4e0ee1ac,1.3.6.1.2.1.78.14,Administrative status of interface,PPP,Down,Down,822600272,424910895,920,720
+ifMetric_99384d4d,1.3.6.1.2.1.48.87,Counter for outbound errors,ATM,Up,Up,736006215,590890208,907,212
+ifMetric_a914c671,1.3.6.1.2.1.2.72,MAC address of interface,WiFi,Up,Unknown,778878035,498095221,906,731
+ifMetric_128e67d9,1.3.6.1.2.1.8.88,Operational status of interface,Loopback,Up,Down,626664675,820164189,110,118
+ifMetric_5056c347,1.3.6.1.2.1.68.34,MAC address of interface,Loopback,Down,Down,207879144,297289534,232,919
+ifMetric_4cb338d4,1.3.6.1.2.1.80.72,Inbound traffic errors,ATM,Down,Down,384037131,831629437,921,692
+ifMetric_33af5cc7,1.3.6.1.2.1.14.65,Operational status of interface,ATM,Up,Unknown,562520772,556763752,930,497
+ifMetric_03505d73,1.3.6.1.2.1.15.17,Counter for outbound errors,ATM,Down,Unknown,677741727,522648685,340,765
+ifMetric_5a996ce0,1.3.6.1.2.1.42.35,Administrative status of interface,ATM,Down,Up,251387503,868095583,794,927
+ifMetric_c277c5f0,1.3.6.1.2.1.86.74,Administrative status of interface,Loopback,Down,Up,322567088,375646696,774,71
+ifMetric_677196e0,1.3.6.1.2.1.87.30,High-capacity counter for inbound traffic,Loopback,Down,Up,819567072,78082411,842,936
+ifMetric_17f4ec93,1.3.6.1.2.1.56.52,High-capacity counter for inbound traffic,WiFi,Down,Up,706947798,565172804,837,540
+ifMetric_5397972b,1.3.6.1.2.1.24.46,MAC address of interface,ATM,Up,Down,449508118,856048069,198,873
+ifMetric_31647c96,1.3.6.1.2.1.42.43,Administrative status of interface,Ethernet,Down,Unknown,951765363,164707248,402,577
+ifMetric_69eef452,1.3.6.1.2.1.58.18,Counter for outbound errors,Ethernet,Down,Up,84116480,520831921,349,583
+ifMetric_40eb2254,1.3.6.1.2.1.95.50,High-capacity counter for inbound traffic,PPP,Down,Unknown,342530996,8741895,363,203
+ifMetric_37104958,1.3.6.1.2.1.87.26,Inbound traffic errors,Ethernet,Testing,Down,597659844,849242470,693,744
+ifMetric_72b32b14,1.3.6.1.2.1.84.34,Operational status of interface,Loopback,Testing,Down,513964917,349111545,176,222
+ifMetric_bfbaa989,1.3.6.1.2.1.9.78,MAC address of interface,ATM,Down,Unknown,5698251,591305729,876,230
+ifMetric_80f26414,1.3.6.1.2.1.10.59,MAC address of interface,Ethernet,Up,Up,98642285,758010696,630,360
+ifMetric_f34e51da,1.3.6.1.2.1.85.13,High-capacity counter for inbound traffic,Loopback,Testing,Down,816224517,136933976,126,83
+ifMetric_11da5234,1.3.6.1.2.1.89.61,MAC address of interface,Loopback,Down,Down,900761457,83338417,431,542
+ifMetric_fdf04432,1.3.6.1.2.1.88.50,MAC address of interface,ATM,Up,Up,598464677,675259327,668,586
+ifMetric_8f263e48,1.3.6.1.2.1.35.39,High-capacity counter for inbound traffic,WiFi,Testing,Unknown,525874346,866345475,78,316
+ifMetric_bb9fbbea,1.3.6.1.2.1.11.9,Administrative status of interface,WiFi,Up,Up,489871965,176341930,893,10
+ifMetric_d23593d2,1.3.6.1.2.1.21.16,Counter for outbound errors,PPP,Down,Down,36907509,539231637,700,957
+ifMetric_48d01894,1.3.6.1.2.1.71.67,MAC address of interface,ATM,Testing,Unknown,751404035,172471402,13,761
+ifMetric_bfbf8b88,1.3.6.1.2.1.28.55,Administrative status of interface,WiFi,Testing,Down,211563972,666633865,306,336
+ifMetric_9a41378a,1.3.6.1.2.1.46.78,Inbound traffic errors,Ethernet,Down,Unknown,165495696,746716736,124,50
+ifMetric_577f4411,1.3.6.1.2.1.72.82,High-capacity counter for inbound traffic,Loopback,Testing,Unknown,439045545,861885236,835,894
+ifMetric_af3a7c75,1.3.6.1.2.1.98.71,High-capacity counter for inbound traffic,Ethernet,Testing,Up,716936911,635652716,575,888
+ifMetric_2299394f,1.3.6.1.2.1.6.90,High-capacity counter for inbound traffic,ATM,Down,Unknown,669987353,546343065,801,490
+ifMetric_281a8a9d,1.3.6.1.2.1.33.1,Operational status of interface,Ethernet,Testing,Up,733990766,861093612,959,41
+ifMetric_8f725097,1.3.6.1.2.1.90.17,MAC address of interface,PPP,Up,Down,994483729,384205525,63,914
+ifMetric_4609a1cd,1.3.6.1.2.1.58.77,Inbound traffic errors,ATM,Up,Down,532552036,534347444,687,829
+ifMetric_70a739e4,1.3.6.1.2.1.62.83,Operational status of interface,PPP,Testing,Up,4702389,943501927,333,696
+ifMetric_6f821be7,1.3.6.1.2.1.48.67,High-capacity counter for inbound traffic,PPP,Down,Up,242474199,770211013,837,21
+ifMetric_99f47390,1.3.6.1.2.1.99.43,Operational status of interface,Ethernet,Up,Down,133248640,84417472,138,669
+ifMetric_6640e028,1.3.6.1.2.1.83.51,High-capacity counter for inbound traffic,PPP,Up,Up,912545190,419935057,44,872
+ifMetric_02e56e38,1.3.6.1.2.1.87.89,High-capacity counter for inbound traffic,ATM,Testing,Down,18888882,172175814,964,439
+ifMetric_a220e8ac,1.3.6.1.2.1.18.31,Inbound traffic errors,Loopback,Down,Unknown,906739612,469917259,680,667
+ifMetric_b839de39,1.3.6.1.2.1.96.84,Inbound traffic errors,ATM,Up,Up,95980857,274898905,267,459
+ifMetric_6c7b4f9a,1.3.6.1.2.1.5.72,Operational status of interface,Ethernet,Down,Up,144001586,154561539,69,810
+ifMetric_87b266c1,1.3.6.1.2.1.16.79,Administrative status of interface,ATM,Down,Unknown,496911346,776222615,208,291
+ifMetric_4e91af57,1.3.6.1.2.1.5.76,Operational status of interface,PPP,Up,Down,878429628,428487258,208,520
+ifMetric_0cc47afe,1.3.6.1.2.1.24.37,MAC address of interface,Ethernet,Down,Unknown,309565762,783880379,50,7
+ifMetric_25fa905e,1.3.6.1.2.1.27.31,MAC address of interface,PPP,Testing,Unknown,871115996,442642912,633,669
+ifMetric_be4a105c,1.3.6.1.2.1.66.79,MAC address of interface,PPP,Down,Up,954785166,610484101,487,175
+ifMetric_f6ef79da,1.3.6.1.2.1.9.29,High-capacity counter for inbound traffic,ATM,Down,Unknown,755703791,422762828,80,914
+ifMetric_e1a14680,1.3.6.1.2.1.12.74,High-capacity counter for inbound traffic,ATM,Testing,Unknown,900096868,409164609,519,296
+ifMetric_c4c8414a,1.3.6.1.2.1.97.82,High-capacity counter for inbound traffic,WiFi,Up,Down,769821754,989911676,147,915
+ifMetric_df2a373f,1.3.6.1.2.1.66.56,Administrative status of interface,Ethernet,Testing,Down,185491143,253259866,369,613
+ifMetric_098bed5f,1.3.6.1.2.1.82.70,Counter for outbound errors,Loopback,Down,Unknown,787775291,657089311,378,968
+ifMetric_9e1bc5a0,1.3.6.1.2.1.88.7,Administrative status of interface,WiFi,Testing,Up,720229953,990097858,591,405
+ifMetric_d4f79598,1.3.6.1.2.1.8.11,Counter for outbound errors,PPP,Testing,Unknown,621900252,443792085,600,542
+ifMetric_07f355b3,1.3.6.1.2.1.86.53,Administrative status of interface,PPP,Down,Up,484466359,553733550,979,552
+ifMetric_8a1d5c28,1.3.6.1.2.1.61.76,Operational status of interface,WiFi,Down,Unknown,405543316,784082304,75,158
+ifMetric_e42a9df7,1.3.6.1.2.1.74.35,MAC address of interface,PPP,Up,Unknown,138816328,736453590,487,758
+ifMetric_26da9715,1.3.6.1.2.1.78.45,Administrative status of interface,ATM,Down,Up,349004696,539937507,970,191
+ifMetric_b8051196,1.3.6.1.2.1.68.32,Inbound traffic errors,WiFi,Down,Down,716910244,198053652,839,492
+ifMetric_1324dfab,1.3.6.1.2.1.82.31,MAC address of interface,Loopback,Testing,Unknown,801839726,542336618,435,82
+ifMetric_bd793172,1.3.6.1.2.1.49.25,MAC address of interface,Ethernet,Down,Down,818750661,58997106,957,702
+ifMetric_fd62bfa9,1.3.6.1.2.1.12.87,MAC address of interface,PPP,Down,Up,352303449,746832134,105,164
+ifMetric_8b7e3a1a,1.3.6.1.2.1.79.62,High-capacity counter for inbound traffic,Loopback,Down,Down,212178511,972449216,911,624
+ifMetric_1949d18d,1.3.6.1.2.1.79.16,High-capacity counter for inbound traffic,Loopback,Testing,Down,779822190,38050323,692,23
+ifMetric_4b3bed09,1.3.6.1.2.1.77.100,Inbound traffic errors,ATM,Down,Unknown,60522076,460252261,910,692
+ifMetric_7c753176,1.3.6.1.2.1.85.2,Inbound traffic errors,ATM,Up,Unknown,825947433,612261450,618,736
+ifMetric_585f8882,1.3.6.1.2.1.59.24,Inbound traffic errors,PPP,Testing,Down,589363435,757346118,107,320
+ifMetric_a37ff0c5,1.3.6.1.2.1.59.34,Counter for outbound errors,Ethernet,Testing,Up,900187472,835543723,345,830
+ifMetric_b4afb196,1.3.6.1.2.1.43.77,Administrative status of interface,Ethernet,Up,Up,928828068,626164468,613,312
+ifMetric_c9acccf4,1.3.6.1.2.1.11.68,MAC address of interface,Ethernet,Down,Down,147586684,601349112,105,812
+ifMetric_8edf51ab,1.3.6.1.2.1.20.45,Inbound traffic errors,Loopback,Testing,Unknown,9810895,254905343,291,549
+ifMetric_9034584f,1.3.6.1.2.1.42.25,Counter for outbound errors,ATM,Up,Down,281482124,799676666,132,547
+ifMetric_b947ec7d,1.3.6.1.2.1.27.59,Inbound traffic errors,Ethernet,Testing,Unknown,643584900,329874318,673,364
+ifMetric_3010f23c,1.3.6.1.2.1.19.60,Counter for outbound errors,ATM,Up,Unknown,701810345,721536838,426,219
+ifMetric_dca9b5ec,1.3.6.1.2.1.65.56,Inbound traffic errors,PPP,Testing,Down,558352354,98124340,972,770
+ifMetric_56742e6a,1.3.6.1.2.1.66.45,High-capacity counter for inbound traffic,WiFi,Down,Down,325604523,432883214,567,624
+ifMetric_7436eef5,1.3.6.1.2.1.16.58,MAC address of interface,Loopback,Up,Up,903199611,736821670,148,786
+ifMetric_17fca6bc,1.3.6.1.2.1.33.14,Administrative status of interface,Ethernet,Down,Up,917473812,124390323,558,832
+ifMetric_add72266,1.3.6.1.2.1.75.84,MAC address of interface,Loopback,Down,Up,49679620,748167584,117,628
+ifMetric_dd45d3d9,1.3.6.1.2.1.29.41,Operational status of interface,WiFi,Testing,Unknown,248314068,703864058,964,63
+ifMetric_687e0866,1.3.6.1.2.1.1.69,Operational status of interface,WiFi,Testing,Up,320507532,151146709,102,670
+ifMetric_f6208a89,1.3.6.1.2.1.13.58,MAC address of interface,Loopback,Down,Unknown,990154457,672553228,507,68
+ifMetric_2d400f62,1.3.6.1.2.1.76.87,MAC address of interface,PPP,Testing,Unknown,490848854,159563822,248,772
+ifMetric_09632ce3,1.3.6.1.2.1.87.25,Operational status of interface,ATM,Testing,Down,820926138,564013346,569,864
+ifMetric_82d34563,1.3.6.1.2.1.54.43,Administrative status of interface,Ethernet,Down,Down,712349167,588692082,363,768
+ifMetric_1e647c29,1.3.6.1.2.1.31.97,MAC address of interface,WiFi,Down,Down,370389839,510406287,928,821
+ifMetric_f62dd2ea,1.3.6.1.2.1.82.40,Counter for outbound errors,ATM,Up,Up,853272886,621828077,611,937
+ifMetric_cebf6f97,1.3.6.1.2.1.70.85,MAC address of interface,ATM,Down,Down,297481234,506103985,427,20
+ifMetric_25893707,1.3.6.1.2.1.28.4,MAC address of interface,ATM,Up,Unknown,807168381,487409880,160,841
+ifMetric_e83d7450,1.3.6.1.2.1.82.75,Counter for outbound errors,WiFi,Testing,Up,536830526,759932712,861,290
+ifMetric_a19bc05e,1.3.6.1.2.1.10.29,Administrative status of interface,PPP,Up,Down,325915315,862031347,13,726
+ifMetric_95a51c9a,1.3.6.1.2.1.60.94,Administrative status of interface,WiFi,Down,Unknown,125425400,894973776,353,820
+ifMetric_c35d57b0,1.3.6.1.2.1.31.60,MAC address of interface,Loopback,Down,Unknown,124896241,243097067,518,270
+ifMetric_26ced8c8,1.3.6.1.2.1.23.68,Counter for outbound errors,Loopback,Testing,Down,437776005,502163457,602,589
+ifMetric_3c0e0313,1.3.6.1.2.1.25.94,Operational status of interface,WiFi,Down,Unknown,365132854,192753165,904,122
+ifMetric_b298d702,1.3.6.1.2.1.4.44,Inbound traffic errors,Loopback,Testing,Down,613775156,689956351,662,709
+ifMetric_9e270472,1.3.6.1.2.1.2.74,Inbound traffic errors,Ethernet,Down,Unknown,531343261,761686459,683,311
+ifMetric_faf8a5b2,1.3.6.1.2.1.39.86,MAC address of interface,ATM,Down,Down,331989572,357905904,337,447
+ifMetric_9e69f5b1,1.3.6.1.2.1.68.47,Inbound traffic errors,WiFi,Down,Down,846274203,918810663,373,504
+ifMetric_8dae0392,1.3.6.1.2.1.17.59,Operational status of interface,ATM,Down,Unknown,417172864,698208538,144,492
+ifMetric_141f7a10,1.3.6.1.2.1.39.4,Administrative status of interface,WiFi,Testing,Unknown,34773369,126414904,586,140
+ifMetric_4ffe7f59,1.3.6.1.2.1.96.24,Operational status of interface,ATM,Testing,Up,489918163,331896936,85,619
+ifMetric_d315bac2,1.3.6.1.2.1.12.53,Operational status of interface,PPP,Testing,Down,514216772,34950275,328,421
+ifMetric_bc7ebc88,1.3.6.1.2.1.49.35,Counter for outbound errors,Ethernet,Down,Up,421787106,22987670,430,582
+ifMetric_e3cf29b4,1.3.6.1.2.1.92.18,MAC address of interface,ATM,Up,Down,885839821,494988914,916,478
+ifMetric_8f13ed57,1.3.6.1.2.1.46.1,MAC address of interface,WiFi,Testing,Up,51007300,570221548,427,939
+ifMetric_a58730ea,1.3.6.1.2.1.97.87,Administrative status of interface,WiFi,Testing,Down,603685124,787393392,991,863
+ifMetric_10c8822d,1.3.6.1.2.1.48.38,MAC address of interface,Ethernet,Up,Unknown,519142894,928022849,591,688
+ifMetric_d9dee2c1,1.3.6.1.2.1.35.44,Administrative status of interface,Loopback,Down,Up,969842780,689592167,406,431
+ifMetric_ac39df2b,1.3.6.1.2.1.98.14,High-capacity counter for inbound traffic,WiFi,Testing,Down,891055812,766713044,21,958
+ifMetric_20db910b,1.3.6.1.2.1.22.15,MAC address of interface,ATM,Down,Up,622197455,853471788,421,804
+ifMetric_eb4a21ba,1.3.6.1.2.1.38.33,Administrative status of interface,PPP,Up,Down,778471075,627883519,990,74
+ifMetric_e1510280,1.3.6.1.2.1.84.65,Inbound traffic errors,Ethernet,Testing,Unknown,772719954,95848624,989,734
+ifMetric_ebade1c9,1.3.6.1.2.1.11.41,Counter for outbound errors,PPP,Down,Up,249655037,442411632,436,746
+ifMetric_b88fdceb,1.3.6.1.2.1.97.1,Inbound traffic errors,ATM,Up,Up,723381262,475639616,54,773
+ifMetric_355bdf6d,1.3.6.1.2.1.69.25,MAC address of interface,Ethernet,Up,Down,84108600,393517408,430,692
+ifMetric_5cf70784,1.3.6.1.2.1.28.21,Operational status of interface,ATM,Up,Down,791693123,500308056,779,132
+ifMetric_e6d939d9,1.3.6.1.2.1.68.52,MAC address of interface,Ethernet,Testing,Unknown,867511257,454537109,521,984
+ifMetric_c1b8bee5,1.3.6.1.2.1.42.58,Counter for outbound errors,ATM,Down,Up,582081298,707453304,435,613
+ifMetric_2ff7a170,1.3.6.1.2.1.43.76,Inbound traffic errors,Ethernet,Up,Up,690773722,795822593,620,343
+ifMetric_9d24c78c,1.3.6.1.2.1.84.57,High-capacity counter for inbound traffic,WiFi,Up,Up,504606020,609674398,132,946
+ifMetric_8e8d98ea,1.3.6.1.2.1.20.96,Administrative status of interface,Ethernet,Testing,Down,838298761,570812601,508,416
+ifMetric_1d04094d,1.3.6.1.2.1.98.84,Inbound traffic errors,Ethernet,Down,Down,528782715,642218450,454,813
+ifMetric_91a2d4c8,1.3.6.1.2.1.3.39,High-capacity counter for inbound traffic,PPP,Up,Unknown,586459301,241120878,732,562
+ifMetric_30eb608a,1.3.6.1.2.1.56.12,Counter for outbound errors,WiFi,Up,Down,761656545,936418321,695,106
+ifMetric_a758045c,1.3.6.1.2.1.53.62,Operational status of interface,PPP,Testing,Down,835411284,518169051,696,434
+ifMetric_02580f84,1.3.6.1.2.1.42.80,Operational status of interface,Loopback,Up,Up,276380223,192830953,671,299
+ifMetric_717265b0,1.3.6.1.2.1.35.34,Operational status of interface,PPP,Testing,Up,995619066,627792982,116,772
+ifMetric_9a23d3d0,1.3.6.1.2.1.43.92,MAC address of interface,PPP,Down,Down,946405604,217098901,393,373
+ifMetric_b6dbad8f,1.3.6.1.2.1.43.29,Administrative status of interface,WiFi,Testing,Unknown,27749189,536770756,627,943
+ifMetric_2146f109,1.3.6.1.2.1.94.51,Operational status of interface,ATM,Up,Down,543260724,850347262,799,199
+ifMetric_bd3742e2,1.3.6.1.2.1.89.62,Counter for outbound errors,Ethernet,Testing,Down,670099336,945702357,961,661
+ifMetric_1295a474,1.3.6.1.2.1.15.35,Administrative status of interface,Ethernet,Up,Up,225909763,66781579,499,470
+ifMetric_4c26ad1e,1.3.6.1.2.1.93.31,Inbound traffic errors,PPP,Down,Unknown,743387115,616382683,772,276
+ifMetric_0bd11883,1.3.6.1.2.1.17.83,Operational status of interface,ATM,Up,Down,140858541,478310679,122,77
+ifMetric_cd33b797,1.3.6.1.2.1.83.6,MAC address of interface,ATM,Testing,Up,782503979,221766504,83,977
