@@ -8,6 +8,7 @@ from sklearn.impute import SimpleImputer
 file_path = 'MOCK_DATA.csv'
 data = pd.read_csv(file_path)
 
+
 imputer = SimpleImputer(strategy='mean')
 data[['Inbound Octets', 'Outbound Octets', 'Inbound Errors', 'Outbound Errors']] = imputer.fit_transform(data[['Inbound Octets', 'Outbound Octets', 'Inbound Errors', 'Outbound Errors']])
 
